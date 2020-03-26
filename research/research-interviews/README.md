@@ -2,7 +2,7 @@
 
 [Early Adopters](experts/)
 
-[Experts](early-adopters.md)
+[Experts](early-adopters/)
 
 [Potential Users](potential-users.md)
 
