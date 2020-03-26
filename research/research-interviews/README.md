@@ -4,5 +4,5 @@
 
 [Experts](early-adopters/)
 
-[Potential Users](potential-users.md)
+[Potential Users](potential-users/)
 

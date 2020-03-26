@@ -35,5 +35,6 @@
     * [P7](research/research-interviews/early-adopters/p7.md)
     * [P14](research/research-interviews/early-adopters/p14.md)
     * [P15](research/research-interviews/early-adopters/p15.md)
-  * [Potential Users](research/research-interviews/potential-users.md)
+  * [Potential Users](research/research-interviews/potential-users/README.md)
+    * [P16](research/research-interviews/potential-users/p16.md)
 
