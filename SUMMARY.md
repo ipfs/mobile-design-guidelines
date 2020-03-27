@@ -10,7 +10,6 @@
 ## Research
 
 * [Introduction](research/introduction.md)
-* [test](research/test.md)
 * [Methodology](research/methodology/README.md)
   * [Mobile survey review](research/methodology/mobile-survey-review.md)
   * [Exploratory Workshop](research/methodology/exploratory-workshop.md)
