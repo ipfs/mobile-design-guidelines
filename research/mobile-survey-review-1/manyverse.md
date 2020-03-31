@@ -10,5 +10,11 @@
 
 ![Onboarding flow after opening the app for the first time](../../.gitbook/assets/manyverse-onboard.png)
 
+
+
 ### Profile and settings
+
+### 
+
+### 
 
