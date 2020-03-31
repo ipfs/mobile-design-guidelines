@@ -15,6 +15,7 @@
   * [Exploratory Workshop](research/methodology/exploratory-workshop.md)
   * [Research Interview](research/methodology/research-interview.md)
 * [Mobile Survey Review](research/mobile-survey-review-1/README.md)
+  * [Sharedrop.io](research/mobile-survey-review-1/sharedrop.io.md)
   * [Manyverse](research/mobile-survey-review-1/manyverse.md)
 * [Mobile Features](research/mobile-features.md)
 * [Research Assumptions](research/research-assumptions.md)
