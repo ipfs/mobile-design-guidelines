@@ -20,7 +20,9 @@ When setting up the app for the first time the user encounters a normal pattern 
 
 When a new account is setup however, there is no indication or notifaction that the account has been setup, nor of the profile that has been setup for them.
 
+![](../../.gitbook/assets/manyverse-screen-9.PNG)
 
+If the user would like to restore an account they need to enter in a not terribly friendly 48 word recovery phrase. While this is no doubt highly secure, and despite essentially functioning like a password for the user, there could be other recovery options available.
 
 
 
