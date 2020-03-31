@@ -16,8 +16,6 @@ The ManyVerse onboarding flow is thorough and explanatory, albeit a lot of readi
 
 When setting up the app for the first time the user encounters a normal pattern of setting up an account or restoring one.
 
-![](../../.gitbook/assets/manyverse-screen-8.PNG)
-
 When a new account is setup however, there is no indication or notifaction that the account has been setup, nor of the profile that has been setup for them.
 
 ![](../../.gitbook/assets/manyverse-screen-9.PNG)
@@ -26,9 +24,33 @@ If the user would like to restore an account they need to enter in a not terribl
 
 
 
+![](../../.gitbook/assets/manyverse-screen-11.PNG)
+
+Once a profile is created or recovered, the user then is presented with their profile screen which is a list of messages \(in this case blank as it's a new user\).
+
 ### Profile and settings
 
-### 
+![](../../.gitbook/assets/manyverse-screen-11%20%281%29.PNG)
 
-### 
+The default UI screen is the Messages screen where the user would compose and read messages they would receive once connected and synced via Scuttlebutt.
+
+![](../../.gitbook/assets/manyverse-screen-10.PNG)
+
+App navigation is handled by the hamburger menu as is customary with the Google Material UI which ManyVerse uses.
+
+![](../../.gitbook/assets/manyverse-screen-15%20%281%29.PNG)
+
+
+
+
+
+From the main side secondary navigation the user can see the raw database. There are no controls for what is in that database, as nothing in ManyVerse can be deleted. The database entries can be tapped and then the source code for each entry can be viewed.
+
+![](../../.gitbook/assets/manyverse-screen-12%20%281%29.PNG)
+
+![](../../.gitbook/assets/manyverse-connections.png)
+
+### Messaging
+
+![](../../.gitbook/assets/manyverse-screen-14.PNG)
 
