@@ -10,6 +10,18 @@
 
 ![Onboarding flow after opening the app for the first time](../../.gitbook/assets/manyverse-onboard.png)
 
+The ManyVerse onboarding flow is thorough and explanatory, albeit a lot of reading for a new user.
+
+![](../../.gitbook/assets/manyverse-screen-7.PNG)
+
+When setting up the app for the first time the user encounters a normal pattern of setting up an account or restoring one.
+
+![](../../.gitbook/assets/manyverse-screen-8.PNG)
+
+When a new account is setup however, there is no indication or notifaction that the account has been setup, nor of the profile that has been setup for them.
+
+
+
 
 
 ### Profile and settings
