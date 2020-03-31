@@ -40,10 +40,6 @@ App navigation is handled by the hamburger menu as is customary with the Google 
 
 ![](../../.gitbook/assets/manyverse-screen-15%20%281%29.PNG)
 
-
-
-
-
 From the main side secondary navigation the user can see the raw database. There are no controls for what is in that database, as nothing in ManyVerse can be deleted. The database entries can be tapped and then the source code for each entry can be viewed.
 
 ![](../../.gitbook/assets/manyverse-screen-12%20%281%29.PNG)
