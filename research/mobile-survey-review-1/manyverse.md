@@ -1,4 +1,4 @@
-# Manyverse
+# ManyVerse
 
 ![](../../.gitbook/assets/manyverse-icon-small.png)
 
