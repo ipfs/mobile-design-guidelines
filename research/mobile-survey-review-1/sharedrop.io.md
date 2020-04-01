@@ -12,11 +12,9 @@ ShareDrop is a web application that also works on mobile. For testing purposes, 
 
 ![](../../.gitbook/assets/sharedrop-1%20%281%29.png)
 
-
-
 The user is prompted with a modal showing how to use the app which they have to approve to continue.
 
-![](../../.gitbook/assets/sharedrop-2.png)
+![User shared to](../../.gitbook/assets/sharedrop-2.png)
 
 On the sharing mobile \(in this case, desktop simulation in Brave\) any user with SharePoint open on the network shows as an animal avatar. In this case, showing the two test devices.
 
