@@ -17,6 +17,7 @@
 * [Mobile Survey Review](research/mobile-survey-review-1/README.md)
   * [Manyverse](research/mobile-survey-review-1/manyverse.md)
   * [Sharedrop.io](research/mobile-survey-review-1/sharedrop.io.md)
+  * [Status](research/mobile-survey-review-1/status.md)
 * [Mobile Features](research/mobile-features.md)
 * [Research Assumptions](research/research-assumptions.md)
 * [Research Interviews](research/research-interviews/README.md)
