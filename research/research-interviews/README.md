@@ -1,8 +1,8 @@
 # Research Interviews
 
-[Early Adopters](experts/)
+{% page-ref page="experts/" %}
 
-[Experts](early-adopters/)
+{% page-ref page="early-adopters/" %}
 
-[Potential Users](potential-users/)
+{% page-ref page="potential-users/" %}
 
