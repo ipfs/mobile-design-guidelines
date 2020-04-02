@@ -50,7 +50,7 @@ When the user selects the torrent, all of the files are displayed.
 
 ![](../../.gitbook/assets/utorrent-screen-09.png)
 
-When managing any of the torrent shares with the options menu, the user can select the files comprising the torrent, delete it or move the torrent.
+When managing any of the torrent shares with the overflow menu, the user can select the files comprising the torrent, delete it or move the torrent.
 
 ### Summary
 
