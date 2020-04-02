@@ -6,8 +6,6 @@
 
 > An easy and secure way to send your files. No central server. No tracking. No backdoors.
 
-
-
 ### Sharing
 
 ![](../../.gitbook/assets/fairdrop-screen-1.png)

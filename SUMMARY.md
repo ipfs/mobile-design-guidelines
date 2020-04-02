@@ -12,7 +12,7 @@
 * [Introduction](research/introduction.md)
 * [Methodology](research/methodology.md)
 * [Mobile Browser Survey](research/mobile-browser-survey.md)
-* [Mobile Survey Review](research/mobile-survey-review-1/README.md)
+* [Mobile Application Survey Review](research/mobile-survey-review-1/README.md)
   * [ManyVerse](research/mobile-survey-review-1/manyverse.md)
   * [Sharedrop.io](research/mobile-survey-review-1/sharedrop.io.md)
   * [Status](research/mobile-survey-review-1/status.md)
