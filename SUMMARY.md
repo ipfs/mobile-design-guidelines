@@ -19,6 +19,7 @@
   * [Sharedrop.io](research/mobile-survey-review-1/sharedrop.io.md)
   * [Status](research/mobile-survey-review-1/status.md)
   * [FrostWire](research/mobile-survey-review-1/frostwire.md)
+  * [uTorrent Mobile](research/mobile-survey-review-1/utorrent-mobile.md)
 * [Mobile Features](research/mobile-features.md)
 * [Research Assumptions](research/research-assumptions.md)
 * [Research Interviews](research/research-interviews/README.md)
