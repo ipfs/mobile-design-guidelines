@@ -10,10 +10,7 @@
 ## Research
 
 * [Introduction](research/introduction.md)
-* [Methodology](research/methodology/README.md)
-  * [Mobile survey review](research/methodology/mobile-survey-review.md)
-  * [Exploratory Workshop](research/methodology/exploratory-workshop.md)
-  * [Research Interview](research/methodology/research-interview.md)
+* [Methodology](research/methodology.md)
 * [Mobile Browser Survey](research/mobile-browser-survey.md)
 * [Mobile Survey Review](research/mobile-survey-review-1/README.md)
   * [ManyVerse](research/mobile-survey-review-1/manyverse.md)
