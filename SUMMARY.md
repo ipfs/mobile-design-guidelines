@@ -21,6 +21,7 @@
   * [FrostWire](research/mobile-survey-review-1/frostwire.md)
   * [uTorrent Mobile](research/mobile-survey-review-1/utorrent-mobile.md)
   * [Haven](research/mobile-survey-review-1/haven.md)
+  * [Fairdrop](research/mobile-survey-review-1/fairdrop.md)
 * [Mobile Features](research/mobile-features.md)
 * [Research Assumptions](research/research-assumptions.md)
 * [Research Interviews](research/research-interviews/README.md)
