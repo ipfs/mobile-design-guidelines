@@ -2,6 +2,8 @@
 
 
 
+![](../../.gitbook/assets/haven-logo-small.png)
+
 {% embed url="https://gethaven.app/" %}
 
 > **More Privacy**
