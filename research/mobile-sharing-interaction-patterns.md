@@ -6,7 +6,7 @@
 
 Description
 
-![](../../.gitbook/assets/Android-sharing-1.png)
+![](../../.gitbook/assets/Android-sharing-2.png)
 
 Description
 
