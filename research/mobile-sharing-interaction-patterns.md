@@ -88,8 +88,4 @@ Description
 
 Description
 
-![](../../.gitbook/assets/iOS-sharing-11.png)
-
-Description
-
 ## Summary
