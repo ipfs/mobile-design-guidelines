@@ -2,7 +2,7 @@
 
 ### Android
 
-![](../../.gitbook/assets/Android-sharing-1.png)
+![](../../.gitbook/assets/android-sharing-1.png)
 
 ### iOS
 
