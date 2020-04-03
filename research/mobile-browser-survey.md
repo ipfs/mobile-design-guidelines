@@ -1,8 +1,8 @@
 # Mobile Browser Survey
 
-To investigate mobile P2P interaction for IPFS, and furthering the work of the [Browser Design Guidelines](https://github.com/ipfs/browser-design-guidelines), we first surveyed the two most prominent and widely used mobile browsers, Android's Chrome and iOS's Safari, both of which are the default browsers, and thus most likely to be used.
+To investigate mobile P2P interaction for IPFS we first surveyed the two most prominent and widely used mobile browsers, Android's Chrome and iOS's Safari, both of which are the default browsers, and thus most likely to be used.
 
-It is important to note that neither has support for extensions or add-ons, which would allow bringing the work from the [Browser Design Guidelines](https://github.com/ipfs/browser-design-guidelines) directly to mobile, besides mobile interaction patterns being greatly different.
+It is important to note that neither has support for extensions or add-ons, which would allow bringing the work directly to mobile, besides mobile interaction patterns being greatly different.
 
 ### Android
 

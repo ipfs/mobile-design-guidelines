@@ -2,9 +2,7 @@
 
 ### Mobile Survey Review
 
-The Mobile Survey Review is comprised of two parts. The first is an examination of mobile browsers which serves as a bridge to the [Browser Design Guidelines](https://github.com/ipfs/browser-design-guidelines) and had the purpose of looking at potential uses of the browser on mobile devices for IPFS.
-
-Following the browser survey was the Mobile Application Survey which took into account a review of a wide range of mobile applications, both native apps and mobile web apps, and all of which the network transport used is P2P.
+The Mobile Survey Review is comprised of two parts. The first is an examination of mobile browsers  and is intended to look at potential uses of the browser on mobile devices for IPFS. Following the browser survey was the Mobile Application Survey which took into account a review of a wide range of mobile applications, both native apps and mobile web apps, and all of which the network transport used is P2P.
 
 ### Kick-off Workshop
 
