@@ -21,6 +21,7 @@
   * [Haven](research/mobile-survey-review-1/haven.md)
   * [Fairdrop](research/mobile-survey-review-1/fairdrop.md)
 * [Mobile Features](research/mobile-features.md)
+* [Mobile Sharing Interaction Patterns](research/mobile-sharing-interaction-patterns.md)
 * [Research Assumptions](research/research-assumptions.md)
 * [Research Interviews](research/research-interviews/README.md)
   * [Early Adopters](research/research-interviews/experts/README.md)
