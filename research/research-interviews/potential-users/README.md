@@ -13,7 +13,7 @@
 
 ### [P16](p16.md)
 
-Works in online transcription \(South Africa\)
+Online transcription \(South Africa\)
 
 ### [P17](p17.md)
 
@@ -33,5 +33,5 @@ Pharmacist \(UK\)
 
 ### [P21](p21.md)
 
-Property development \(Nigeria\)
+Real estate \(Nigeria\)
 
