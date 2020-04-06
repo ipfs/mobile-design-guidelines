@@ -4,7 +4,7 @@ To investigate mobile P2P interaction for IPFS we first surveyed the two most pr
 
 It is important to note that neither has support for extensions or add-ons, which would allow bringing the work directly to mobile, besides mobile interaction patterns being greatly different.
 
-### Android
+## Android
 
 ![](../.gitbook/assets/android-chrome-screen-4.png)
 
@@ -30,7 +30,7 @@ If multiple tabs are open, in this case two, then the count and access is displa
 
 A image displayed in Chrome from Google Search can be shared with a long press.
 
-### iOS
+## iOS
 
 ![](../.gitbook/assets/ios-safari-screen-1.png)
 

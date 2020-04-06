@@ -9,7 +9,6 @@
 
 ## Research
 
-* [Introduction](research/introduction.md)
 * [Methodology](research/methodology.md)
 * [Mobile Browser Survey](research/mobile-browser-survey.md)
 * [Mobile Application Survey Review](research/mobile-survey-review-1/README.md)
