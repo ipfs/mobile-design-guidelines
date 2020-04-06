@@ -12,13 +12,33 @@
 * Ideally the user should have siloed data not application silos
 * Cloud services like Dropbox and OS applications like AirDrop are considered the gold standard for file sharing
 
-{% page-ref page="p2.md" %}
+#### 
 
-{% page-ref page="p3.md" %}
+#### [P2](p2.md)
 
-{% page-ref page="p7.md" %}
+Actively developing on IPFS
 
-{% page-ref page="p14.md" %}
 
-{% page-ref page="p15.md" %}
+
+#### [P3](p3.md)
+
+Developer working on P2P and blockchain softare
+
+
+
+#### [P7](p7.md)
+
+Actively developing on IPFS
+
+
+
+#### [P14](p14.md)
+
+Softare developer working on P2P and offline-first technologies for the public sector
+
+
+
+#### [P15](p15.md)
+
+Developer and researcher working on P2P technology
 
