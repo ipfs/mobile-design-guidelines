@@ -18,25 +18,17 @@
 
 Actively developing on IPFS
 
-
-
 ### [P3][2]
 
 Developer working on P2P and blockchain software
-
-
 
 ### [P7][3]
 
 Actively developing on IPFS
 
-
-
 ### [P14][4]
 
 Software developer working on P2P and offline-first technologies for the public sector
-
-
 
 ### [P15][5]
 
