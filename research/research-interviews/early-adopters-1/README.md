@@ -51,9 +51,7 @@ Technical architect and software developer
 
 Financier
 
-### \[P13\]\[10\]
+### [P13](p13.md)
 
 Product and product marketing for crypto exchange
-
-\[10\]: p13.md
 
