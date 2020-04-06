@@ -1,52 +1,38 @@
-
-# Early Adopters
+# Experts
 
 ## Key findings
 
-* The user should know what is going on and notifications should be just enough and not overwhelming
-* Being able to manage files and structure is important to the user and cloud services typically reflect this
-* Battery life is important but not as much as it used to be
-* Single Sign On is viewed as a good thing but how to manage it securely is not a simple thing
-* P2P was used extensively in terms of torrents but generally not recently
-* Syncing via cloud services and sending messages notifications are seen as very important
-* File security and backup is very important, but less so is who has the final file
-* Cloud services like Google products are easy to use but not to be trusted
-* Identity management is difficult even for advanced users
-* Privacy and security is important but how to manage it is difficult, varied and often put off
+* P2P technologies such as IPFS have had a difficult time in user adoption
+* Battery life and signal are thought to be very important to end users
+* Users might know of P2P but don't want to be aware that they are using it
+* P2P is assumed to be good for users concerned about privacy and security
+* Offline-first is a trend that is important but difficult to push forward
+* There is a lot of design work to be done, largely around status and notifications
+* Identity is important to both users and developers but is hard to explain and develop for
+* Ideally the user should have siloed data not application silos
+* Cloud services like Dropbox and OS applications like AirDrop are considered the gold standard for file sharing
 
 ## Interviews
 
-### [P1][1]
+### [P2](p2.md)
 
-Mobile app designer and power user
+Actively developing on IPFS
 
-### [P4][2]
+### [P3](p3.md)
 
-Technical writer for decentralisation and Open Source Software
+Developer working on P2P and blockchain software
 
-### [P5][3]
+### [P7](p7.md)
 
-Product lead on health data applications
+Actively developing on IPFS
 
-### [P6][4]
+### [P14](p14.md)
 
-Academic interested in and lecturing on media and blockchain
+Software developer working on P2P and offline-first technologies for the public sector
 
-### P8
+### \[P15\]\[5\]
 
+Developer and researcher working on P2P technology
 
+\[5\]: p15.md
 
-### P9
-
-### P10
-
-### P11
-
-### P12
-
-### P13
-
-[1]:	p1.md
-[2]:	p4.md
-[3]:	p5.md
-[4]:	p6.md
