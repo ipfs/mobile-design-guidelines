@@ -30,9 +30,7 @@ Actively developing on IPFS
 
 Software developer working on P2P and offline-first technologies for the public sector
 
-### \[P15\]\[5\]
+### [P15](p15.md)
 
 Developer and researcher working on P2P technology
-
-\[5\]: p15.md
 
