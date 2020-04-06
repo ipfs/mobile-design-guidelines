@@ -1,6 +1,6 @@
 # Experts
 
-### Key findings
+## Key findings
 
 * P2P technologies such as IPFS have had a difficult time in user adoption
 * Battery life and signal are thought to be very important to end users
@@ -12,33 +12,38 @@
 * Ideally the user should have siloed data not application silos
 * Cloud services like Dropbox and OS applications like AirDrop are considered the gold standard for file sharing
 
-### Interviews
+## Interviews
 
-#### [P2](p2.md)
-
-Actively developing on IPFS
-
-
-
-#### [P3](p3.md)
-
-Developer working on P2P and blockchain softare
-
-
-
-#### [P7](p7.md)
+### [P2][1]
 
 Actively developing on IPFS
 
 
 
-#### [P14](p14.md)
+### [P3][2]
 
-Softare developer working on P2P and offline-first technologies for the public sector
+Developer working on P2P and blockchain software
 
 
 
-#### [P15](p15.md)
+### [P7][3]
+
+Actively developing on IPFS
+
+
+
+### [P14][4]
+
+Software developer working on P2P and offline-first technologies for the public sector
+
+
+
+### [P15][5]
 
 Developer and researcher working on P2P technology
 
+[1]:	p2.md
+[2]:	p3.md
+[3]:	p7.md
+[4]:	p14.md
+[5]:	p15.md
