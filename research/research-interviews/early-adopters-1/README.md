@@ -15,53 +15,45 @@
 
 ## Interviews
 
-### [P1][1]
+### [P1](p1.md)
 
 Mobile app designer and power user
 
-### [P4][2]
+### [P4](p4.md)
 
 Technical writer for decentralisation and Open Source Software
 
-### [P5][3]
+### [P5](p5.md)
 
 Product lead on health data applications
 
-### [P6][4]
+### [P6](p6.md)
 
 Academic interested in and lecturing on media and blockchain
 
-### [P8][5]
+### [P8](p8.md)
 
 Visualisation, data and graphic designer working in offline-first contexts
 
-### [P9][6]
+### [P9](p9.md)
 
 Interaction designer working in blockchain and decentralised finance
 
-### [P10][7]
+### [P10](p10.md)
 
 Policy centred on social change and data
 
-### [P11][8]
+### [P11](p11.md)
 
 Technical architect and software developer
 
-### [P12][9]
+### [P12](p12.md)
 
 Financier
 
-### [P13][10]
+### \[P13\]\[10\]
 
 Product and product marketing for crypto exchange
 
-[1]:	p1.md
-[2]:	p4.md
-[3]:	p5.md
-[4]:	p6.md
-[5]:	p8.md
-[6]:	p9.md
-[7]:	p10.md
-[8]:	p11.md
-[9]:	p12.md
-[10]:	p13.md
+\[10\]: p13.md
+

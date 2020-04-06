@@ -11,33 +11,27 @@
 
 ## Interviews
 
-### [P16][1]
+### [P16](p16.md)
 
-Works in online transcription (South Africa)
+Works in online transcription \(South Africa\)
 
-### [P17][2]
+### [P17](p17.md)
 
-English teacher (Poland)
+English teacher \(Poland\)
 
-### [P18][3]
+### [P18](p18.md)
 
-Online marketing (Germany)
+Online marketing \(Germany\)
 
-### [P19][4]
+### [P19](p19.md)
 
-Unspecified (Kenya)
+Unspecified \(Kenya\)
 
-### [P20][5]
+### [P20](p20.md)
 
-Pharmacist (UK)
+Pharmacist \(UK\)
 
-### [P21][6]
+### [P21](p21.md)
 
-Property development (Nigeria)
+Property development \(Nigeria\)
 
-[1]:	p16.md
-[2]:	p17.md
-[3]:	p18.md
-[4]:	p19.md
-[5]:	p20.md
-[6]:	p21.md
