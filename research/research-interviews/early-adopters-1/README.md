@@ -49,7 +49,7 @@ Technical architect and software developer
 
 ### [P12](p12.md)
 
-Financier
+Financier in tech startups
 
 ### [P13](p13.md)
 
