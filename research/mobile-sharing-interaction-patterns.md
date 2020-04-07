@@ -40,29 +40,29 @@ After creating a message, which is perhaps the most common use pattern, they ent
 
 ## iOS
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/ios-sharing-1.png)
+![](../.gitbook/assets/ios-sharing-1.png)
 
 Like on Android, on iOS the most common sharing patter starts with choosing a photo in the photo gallery app Photos.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/ios-sharing-3.png)
+![](../.gitbook/assets/ios-sharing-3.png)
 
 iOS, if connected or sharing a network with another Apple device, allows the user to send via AirDrop directly to that other device. In this case to a Mac laptop on the same network. It is also interesting to note, that iOS provides a number of OS level options such as to copy or duplicate the file, Save to Files, Save to cloud services such as Dropbox, Print, etc.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/ios-sharing-5.png)
+![](../.gitbook/assets/ios-sharing-5.png)
 
 Sharing through email is the most common default method of sharing as not all users may have the same messaging apps between them. In iOS as in Android it is very straightforward.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/ios-sharing-3.png)
+![](../.gitbook/assets/ios-sharing-3.png)
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/ios-sharing-7.png)
+![](../.gitbook/assets/ios-sharing-7.png)
 
 If the user chooses to send from the Share menu the photo via WhatsApp, again another very common method of sending photos and other files worldwide, they need to first choose which user that they are already connected with they want to share with.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/ios-sharing-8.png)
+![](../.gitbook/assets/ios-sharing-8.png)
 
 A WhatsApp photo share screen shows the photo that is being shared and the option to write a message in the text field and then the send button.
 
-!\[\]\[image-16\]
+![](../.gitbook/assets/ios-sharing-9.png)
 
 Through the iOS default Messages app, the user sends the photo in the pattern of typeahead to choose contact and then adding the message in one screen.
 
