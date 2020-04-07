@@ -22,7 +22,7 @@ When choosing to share, they are given a number of options, most interestingly i
 
 ![](../.gitbook/assets/android-sharing-7%20%281%29.png)
 
-Android still features the ability to share via Bluetooth, unlike iOS. This needs to be confirmed by first turning on Bluetooth if it isn't already, as well as pairing devices which differs from device to device.
+Android still features the ability to share directly via Bluetooth, unlike iOS. This needs to be confirmed by first turning on Bluetooth if it isn't already, as well as pairing devices which differs from device to device.
 
 ![](../.gitbook/assets/android-sharing-8%20%281%29.png)
 
@@ -42,11 +42,13 @@ After creating a message, which is perhaps the most common use pattern, they ent
 
 ![](../.gitbook/assets/ios-sharing-1%20%281%29.png)
 
-Like on Android, on iOS the most common sharing patter starts with choosing a photo in the photo gallery app Photos.
+Like on Android, on iOS the most common sharing pattern starts with choosing a photo in the photo gallery app Photos.
 
 ![](../.gitbook/assets/ios-sharing-3%20%281%29.png)
 
-iOS, if connected or sharing a network with another Apple device, allows the user to send via AirDrop directly to that other device. In this case to a Mac laptop on the same network. It is also interesting to note, that iOS provides a number of OS level options such as to copy or duplicate the file, Save to Files, Save to cloud services such as Dropbox, Print, etc.
+iOS, if connected or sharing a network with another Apple device, allows the user to send via AirDrop directly to that other device. In this case to a Mac laptop on the same network. If there is no Wifi network available, AirDrop can use "Bluetooth Low Energy \(BLE\) and Apple-created peer-to-peer Wi-Fi technology to send files and information to nearby devices" \([StackExchange](https://apple.stackexchange.com/questions/146644/airdrop-bluetooth-or-wi-fi)\).
+
+It is also interesting to note, that iOS provides a number of OS level options such as to copy or duplicate the file, Save to Files, Save to cloud services such as Dropbox, Print, etc. from the share menu as well.
 
 ![](../.gitbook/assets/ios-sharing-5.png)
 
@@ -56,7 +58,7 @@ Sharing through email is the most common default method of sharing as not all us
 
 ![](../.gitbook/assets/ios-sharing-7%20%281%29.png)
 
-If the user chooses to send from the Share menu the photo via WhatsApp, again another very common method of sending photos and other files worldwide, they need to first choose which user that they are already connected with they want to share with.
+If the user chooses to send from the Share menu the photo via WhatsApp, another very common method of sending photos and other files worldwide, they need to first choose which user that they are already connected with they want to share with.
 
 ![](../.gitbook/assets/ios-sharing-8%20%281%29.png)
 
