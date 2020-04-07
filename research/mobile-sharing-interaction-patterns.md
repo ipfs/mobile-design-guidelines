@@ -8,33 +8,33 @@ The most typical sharing and receiving interaction pattern on mobile devices is 
 
 The user starts in the photo gallery to choose the photo they would like to share.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-3.png)
+![](../.gitbook/assets/android-sharing-3.png)
 
 When the photos is selected it is opened in a lightbox and the user has the options to share, use the Google Lens application to edit or add filters, and delete.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-4.png)
+![](../.gitbook/assets/android-sharing-4.png)
 
 The user needs to access the contact either on the mobile device or stored in the Google cloud service.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-5.png)
+![](../.gitbook/assets/android-sharing-5.png)
 
 When choosing to share, they are given a number of options, most interestingly is the option to "type a name, phone number, or email" meaning the user can use typeahead to find the contact and contact type quickly. Frequently used contacts are shown which they can tap and send to. Alternately, they can select options such as "Create a link," "Shared album," etc., and using various messaging apps.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-6.png)
+![](../.gitbook/assets/android-sharing-7.png)
 
 Android still features the ability to share via Bluetooth, unlike iOS. This needs to be confirmed by first turning on Bluetooth if it isn't already, as well as pairing devices which differs from device to device.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-8.png)
+![](../.gitbook/assets/android-sharing-8.png)
 
 The first screen the user encounters is a prompt to add to a shared album which would then be shared once created and then the user has to invite additional users to that shared album.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-9.png)
+![](../.gitbook/assets/android-sharing-9.png)
 
 If the user shares with Messages, they are first prompted to first select an existing message. If there are none, the only other option is to create a new message or cancel.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-10.png)
+![](../.gitbook/assets/android-sharing-10.png)
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-11.png)
+![](../.gitbook/assets/android-sharing-11.png)
 
 After creating a message, which is perhaps the most common use pattern, they enter contacts, or can add a group.
 
