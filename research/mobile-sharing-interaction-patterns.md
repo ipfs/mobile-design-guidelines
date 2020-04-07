@@ -4,7 +4,7 @@ The most typical sharing and receiving interaction pattern on mobile devices is 
 
 ## Android
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/bdeebbbc01a31e5cce92978cd469b8ce52ffd627/.gitbook/assets/android-sharing-2.png)
+![](../.gitbook/assets/android-sharing-2.png)
 
 The user starts in the photo gallery to choose the photo they would like to share.
 
