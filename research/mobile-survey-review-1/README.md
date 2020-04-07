@@ -15,4 +15,3 @@ The following applications have been chose for the Mobile Survey of P2P applicat
 {% page-ref page="haven.md" %}
 
 {% page-ref page="fairdrop.md" %}
-

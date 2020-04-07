@@ -1,8 +1,12 @@
-# Considerations for mobile
+# Considerations for Mobile
+
+There are couple of main areas of consideration when researching IPFS: mobile browsers, mobile battery life , mobile signal and data capabilities and privacy/identity. Throughout the research we layout all of these considerations as well as some questions to bear in mind as we explore IPFS for mobile.
 
 ## Mobile browsers
 
-One extenuating factor with browsers on mobile devices is their limited feature set. While browsers on desktop are often already feature rich, they also feature extensions and add-ons, many of which enable additional features not readily available in the base install. This is important for a number of reasons, first of which is that it means that anyone developing p2p applications, can not easily do this through the pre-installed browsers such as Chrome \(Android\) and Safari \(iOS\) on the two most dominant platforms. The mobile ecosystem has developed as such over the past decade to be app-centric and this means that when developing for mobile in general, much effort is geared towards developing native apps. However, this trend shows some pushback recently with movement away from native apps and trying to make the mobile web more powerful, such as through Progressive Web Apps \(PWAs\). This is for the simple reason it allows developers to essentially write one \(web\) application rather two native applications on constantly changing standards and feature sets for a constantly changing handset landscape.
+One extenuating factor with browsers on mobile devices is their limited feature set. While browsers on desktop are often already feature rich, they also feature extensions and add-ons, many of which enable additional features not readily available in the base install. This is important for a number of reasons, first of which is that it means that anyone developing p2p applications, can not easily do this through the pre-installed browsers such as Chrome \(Android\) and Safari \(iOS\) on the two most dominant platforms.
+
+The mobile ecosystem has developed as such over the past decade to be app-centric and this means that when developing for mobile in general, much effort is geared towards developing native apps. However, this trend shows some pushback recently with movement away from native apps and trying to make the mobile web more powerful, such as through Progressive Web Apps \(PWAs\). This is primarily because it allows developers to essentially write one \(web\) application rather two native applications on constantly changing standards and feature sets for a constantly changing handset landscape.
 
 ### Questions
 
@@ -11,34 +15,33 @@ One extenuating factor with browsers on mobile devices is their limited feature 
 
 ## Battery life and power
 
-It is clear that battery life and power is an issue with mobile devices, however how much of an issue is very relative. Often, battery power is monitored by users only when it is low, and many mobile users now carry additional battery packs when on the go, travelling or otherwise not able to readily charge. Additionally, each new release of mobile handsets comes with extended and more robust battery life, decreasing the amount of importance this may have for users. This is also true across the spectrum of demographics and markets globally, where now in the Global South, Android handsets are as common as elsewhere and charging less of an issue save for extreme rural areas and conflict or disaster scenarios.
+It is clear that battery life is an issue with mobile devices, however how much of an issue is very relative. Often, battery power is monitored by users only when it is low, and many mobile users now carry additional battery packs when on the go, travelling or where otherwise not able to readily charge. Additionally, each new release of mobile handsets comes with extended and more robust battery life, decreasing the amount of importance this may have for users. This is also true across the spectrum of demographics and markets globally, where now in the emerging markets, Android handsets are as common as elsewhere and charging is less of an issue as it may have once been, save for extreme rural areas and conflict or disaster scenarios.
 
-While the development of P2P applications for mobile is nascent, development has already run into issues with battery life and keeping a P2P node up on a phone as this can drain a handset battery relatively quick. Therefore, it will be an increasing issue as P2P on mobile becomes more commonplace that battery life is taken into account. Likewise, though important to different degrees, power is still an important variable that is largely not an issue on the desktop.
+While the development of P2P applications for mobile is nascent, development has already run into issues with battery life in that keeping a P2P node up on a phone can drain a mobile battery relatively quick. Therefore, it will be an increasing issue as IPFS on mobile becomes more commonplace that battery life is taken into account. Though important to different degrees, power is still an important variable to consider that is largely not an issue on the desktop or in IPFS desktop use cases.
 
 ### Questions
 
-* Can notifications be used more appropriately to batter life and particular use cases such as sharing and P2P scenarios?
-* Is there a way for the P2P application to throttle use depending on mobile user context?
+* Can notifications be used more appropriately to batter life and particular use cases such as sharing files over IPFS on mobile?
+* Is there a way for IPFS applications to throttle use depending on mobile user context?
 
 ## Connectivity, bandwidth and signal
 
-Connectivity on mobile is an obvious secondary requirement for IPFS Mobile, however, the connectivity landscape is broad and varied, both an opportunity and large consideration and development challenge for teams.
+Connectivity on mobile is an obvious secondary requirement for IPFS mobile. However, the connectivity landscape is broad and varied, both an opportunity and large consideration and development challenge for teams.
 
-The advantage of P2P for mobile development is that mobile allows for many types of connectivity which can be taken advantage of. Firstly is the data connection on just about every handset via 3G, 4G, LTE and now 5G. This mobile data connection allows handsets to maintain often good data speeds while the user is on the move. Secondly almost all modern handsets have wifi capabilities. This then means that connectivity is switching depending on which mode, wifi or mobile data, is available. However, this also leads to the user problem of this automatic switching not necessarily going to the connection that is faster or more stable, meaning the user often has to decide or guess and then typically test and switch manually. Thirdly, P2P for mobile also allows for Bluetooth connectivity, not commonly used as much anymore, but perhaps could be again in P2P contexts.
+The advantage of IPFS for mobile development is that mobile allows for many types of connectivity which can be taken advantage of. First is the data connection on just about every handset via 3G, 4G, LTE and now 5G. This mobile data connection allows handsets to maintain often good data speeds while the user is on the move. Second, almost all modern handsets have wifi capabilities. This then means that connectivity is switching depending on which mode, wifi or mobile data, is available. This also leads to the user problem of this automatic switching not necessarily going to the connection that is faster or more stable. This often means the user has to decide or guess and test and then switch connections manually. Thirdly, IPFS for mobile also allows for Bluetooth connectivity, not commonly used as much anymore directly, but perhaps could be again in decentralised sharing use cases.
 
-It is important to note that wifi and bluetooth do not exclusively rely on a centralised connection for data transport, meaning once devices are networked or otherwise connected via wifi or bluetooth, they can connect directly to one another without having to use the Internet at all.
+It is important to note that wifi and bluetooth do not exclusively rely on a centralised connection for data transport, meaning once devices are networked or otherwise connected via wifi or bluetooth, they can connect directly to one another without having to use the a centralised Internet at all.
 
 ### Questions
 
 * Are there any ways in development to make network switching seamless for the user?
 * Is it possible for interactions to be designed to facilitate or even encourage more local networking?
 
-## Privacy and security
+## Privacy, security and identity
 
-One of the greatest concerns in many areas of computing and Internet use is that of privacy. Although users in many markets not focused on banking and transactions might not have the same level of concern for identity theft, hacking or having funds stolen, there is still an issue. Applications and data on IPFS Mobile would diminish this as they are decentralised in nature. For the user, this means that identities, keys and passwords are not necessarily held on a central server that can be hacked, lost or stolen, but distributed or help privately and personally. This does impinge on the user additional responsibilities in configuration and storage and can lead to other issues such as unrecoverable keys being lost.
+One of the greatest concerns in many areas of computing and Internet use is that of privacy and its implications for identity on networks. Although users in many markets not focused on banking and transactions might not have the same level of concern for identity theft, hacking or having funds stolen, there is still an issue. Applications and data on IPFS mobile would diminish this as they are decentralised in nature. For the user this means that identities, keys and passwords not necessarily held on a central server that can be hacked, lost or stolen, are distributed or held privately. This does force on the user additional responsibilities in configuration and storage and can lead to other issues such as unrecoverable keys being lost.
 
 ### Questions
 
-* What is the landscape of apps and platforms to facilitate methods like federated identity to make P2P for mobile a reality?
+* What is the landscape of apps and platforms to facilitate methods like federated identity to make IPFS for mobile a reality for most users?
 * What is the user need for mobile identity and P2P?
-
