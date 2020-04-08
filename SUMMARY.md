@@ -48,4 +48,5 @@
     * [P20](research/research-interviews/potential-users/p20.md)
     * [P21](research/research-interviews/potential-users/p21.md)
 * [Research Summaries](research/research-summaries.md)
+* [Design Strategy](research/design-strategy.md)
 
