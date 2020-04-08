@@ -28,3 +28,4 @@ IPFS on mobile presents a unique set of challenges with mobile use and expectati
 * Identity and its management is understood to be important but is generally thought of as difficult and so many times ignored, even for advanced users
 * **There is a general awareness of privacy, but its understanding and application are understood differently in different parts of the world**
 * Single Sign On is viewed as a good thing but how to manage it securely is not a simple thing
+

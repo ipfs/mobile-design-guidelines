@@ -1,4 +1,4 @@
-# Considerations for Mobile
+# Considerations for mobile
 
 There are couple of main areas of consideration when researching IPFS: mobile browsers, mobile battery life , mobile signal and data capabilities and privacy/identity. Throughout the research we layout all of these considerations as well as some questions to bear in mind as we explore IPFS for mobile.
 
@@ -45,3 +45,4 @@ One of the greatest concerns in many areas of computing and Internet use is that
 
 * What is the landscape of apps and platforms to facilitate methods like federated identity to make IPFS for mobile a reality for most users?
 * What is the user need for mobile identity and P2P?
+

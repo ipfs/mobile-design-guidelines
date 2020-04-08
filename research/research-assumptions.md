@@ -11,3 +11,4 @@ To direct the research, the interviews needed to be framed from a point of assum
 * Besides sharing through messaging, cloud services are the standard by which users understand files and media going between different users
 * Users are aware of privacy, but their understanding and approaches to it vary drastically
 * Infrastructural services on mobile devices, such as battery life and bandwidth are important to all users
+
