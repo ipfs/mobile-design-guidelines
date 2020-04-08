@@ -1,4 +1,4 @@
-# Research Summaries
+# Research Findings
 
 IPFS on mobile presents a unique set of challenges with mobile use and expectations from users. Much of this seems to stem from a high standard of usability and maturity of cloud service syncing platforms as well as well as their ubiquity. However, there is a lot of opportunity in addressing user’s desires for better methods of files sharing and the addressing their frustrations with its management and an increasing interest in privacy and security issues.
 
