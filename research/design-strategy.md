@@ -1,7 +1,5 @@
 ---
-description: >-
-  Recommendations to provide direction to the following IPFS mobile design phase
-  documented in repository
+description: Recommendations to provide direction to the following IPFS mobile design phase
 ---
 
 # Design Strategy
