@@ -9,7 +9,9 @@
 
 ## Mobile Survey Review
 
-* [Mobile Browser Survey](mobile-survey-review/mobile-browser-survey.md)
+* [Mobile Browser Survey](mobile-survey-review/mobile-browser-survey/README.md)
+  * [Android](mobile-survey-review/mobile-browser-survey/android.md)
+  * [iOS](mobile-survey-review/mobile-browser-survey/ios.md)
 * [Mobile Features](mobile-survey-review/mobile-features.md)
 * [Mobile Application Survey Review](mobile-survey-review/mobile-survey-review-1/README.md)
   * [ManyVerse](mobile-survey-review/mobile-survey-review-1/manyverse.md)
