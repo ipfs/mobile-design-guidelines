@@ -8,18 +8,18 @@
 * [Considerations for mobile](context/considerations-for-mobile.md)
 * [Methodology](context/methodology.md)
 
-## Interaction Review
+## Mobile Survey Review
 
-* [Mobile Browser Survey](interaction-review/mobile-browser-survey.md)
-* [Mobile Features](interaction-review/mobile-features.md)
-* [Mobile Application Survey Review](interaction-review/mobile-survey-review-1/README.md)
-  * [ManyVerse](interaction-review/mobile-survey-review-1/manyverse.md)
-  * [Sharedrop.io](interaction-review/mobile-survey-review-1/sharedrop.io.md)
-  * [Status](interaction-review/mobile-survey-review-1/status.md)
-  * [FrostWire](interaction-review/mobile-survey-review-1/frostwire.md)
-  * [uTorrent Mobile](interaction-review/mobile-survey-review-1/utorrent-mobile.md)
-  * [Haven](interaction-review/mobile-survey-review-1/haven.md)
-  * [Fairdrop](interaction-review/mobile-survey-review-1/fairdrop.md)
+* [Mobile Browser Survey](mobile-survey-review/mobile-browser-survey.md)
+* [Mobile Features](mobile-survey-review/mobile-features.md)
+* [Mobile Application Survey Review](mobile-survey-review/mobile-survey-review-1/README.md)
+  * [ManyVerse](mobile-survey-review/mobile-survey-review-1/manyverse.md)
+  * [Sharedrop.io](mobile-survey-review/mobile-survey-review-1/sharedrop.io.md)
+  * [Status](mobile-survey-review/mobile-survey-review-1/status.md)
+  * [FrostWire](mobile-survey-review/mobile-survey-review-1/frostwire.md)
+  * [uTorrent Mobile](mobile-survey-review/mobile-survey-review-1/utorrent-mobile.md)
+  * [Haven](mobile-survey-review/mobile-survey-review-1/haven.md)
+  * [Fairdrop](mobile-survey-review/mobile-survey-review-1/fairdrop.md)
 * [Mobile Sharing Interaction Patterns](mobile-sharing-interaction-patterns.md)
 
 ## Research
