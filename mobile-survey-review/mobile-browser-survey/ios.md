@@ -1,4 +1,4 @@
-# iOS
+# iOS Safari
 
 ![](../../.gitbook/assets/ios-safari-home.png)
 

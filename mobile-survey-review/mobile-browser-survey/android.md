@@ -1,4 +1,4 @@
-# Android
+# Android Chrome
 
 ![](../../.gitbook/assets/android-chrome-home.png)
 

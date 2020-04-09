@@ -10,8 +10,8 @@
 ## Mobile Survey Review
 
 * [Mobile Browser Survey](mobile-survey-review/mobile-browser-survey/README.md)
-  * [Android](mobile-survey-review/mobile-browser-survey/android.md)
-  * [iOS](mobile-survey-review/mobile-browser-survey/ios.md)
+  * [Android Chrome](mobile-survey-review/mobile-browser-survey/android.md)
+  * [iOS Safari](mobile-survey-review/mobile-browser-survey/ios.md)
 * [Mobile Application Survey](mobile-survey-review/mobile-survey-review-1/README.md)
   * [ManyVerse](mobile-survey-review/mobile-survey-review-1/manyverse.md)
   * [Sharedrop.io](mobile-survey-review/mobile-survey-review-1/sharedrop.io.md)
@@ -23,8 +23,8 @@
 * [Mobile Application Features](mobile-survey-review/mobile-features.md)
 * [Mobile Application Findings](mobile-survey-review/mobile-application-findings.md)
 * [Mobile Sharing Interaction](mobile-survey-review/mobile-sharing-interaction-patterns/README.md)
-  * [Android](mobile-survey-review/mobile-sharing-interaction-patterns/android.md)
-  * [iOS](mobile-survey-review/mobile-sharing-interaction-patterns/ios.md)
+  * [Android sharing](mobile-survey-review/mobile-sharing-interaction-patterns/android.md)
+  * [iOS sharing](mobile-survey-review/mobile-sharing-interaction-patterns/ios.md)
 
 ## Research
 

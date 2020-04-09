@@ -6,7 +6,7 @@ It is important to note that neither has support for extensions or add-ons, whic
 
 There are a number of other mobile browsers that do support extensions and could then support IPFS or P2P extensions, such as Mozilla Firefox for mobile. Also to note in regards to mobile browser support, the Cliqz browser has experimental support for the DAT P2P protocol, and Opera Mobile now supports IPFS.
 
-### [Android](android.md)
+### [Android Chrome](android.md)
 
-### [iOS](ios.md)
+### [iOS Safari](ios.md)
 
