@@ -58,7 +58,7 @@ Messaging seems rather straight forward in ManyVerse, with a threaded view and L
 
 Upon clicking around the UI, I was somehow able to as a user to connect to myself on the Wifi network. At this point I was also able to follow myself which was unclear how this happened as well as what led me to this. There is a chance that while looking for pub servers on the Mac desktop Patchwork client that it somehow enabled this over the network, but for a novice absolutely nothing was clear. Also there is an obvious usability problem in being able to connect to yourself, or having multiple identities potentially running on the same app at the same time with no audit trail for the connections.
 
-!\[\]\[image-13\]
+![](../../.gitbook/assets/manyverse-screen-23.PNG)
 
 Viewing a user's profile and messages is rather straightforward, as is the ability to follow that user and view their bio.
 
@@ -69,6 +69,4 @@ Viewing a user's profile and messages is rather straightforward, as is the abili
 * Account handling is unclear and there is little in-app instruction as to how user profiles are stored
 * Appears to be able to do as it says which is online-offline syncing of messages and content and media in images which can be useful
 * Connecting to other users is difficult and unclear
-
-\[image-13\]: ../../.gitbook/assets/manyverse-screen-23.PNG
 
