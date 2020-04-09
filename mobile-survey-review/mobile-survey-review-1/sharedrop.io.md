@@ -8,7 +8,7 @@
 
 ShareDrop is a web application that also works on mobile. For testing purposes, it seemed to work in this case on Brave \(desktop/mobile\) and Safari \(mobile\). It had worked previously on Firefox \(desktop/mobile\) but that was not working for this particular testing.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/c30d2d6a1b009d38d16b7babc146d1c1f8604f13/.gitbook/assets/sharedrop-1%20%281%29.png)
+![](../../.gitbook/assets/sharedrop-1.png)
 
 The user is prompted with a modal showing how to use the app which they have to approve to continue.
 
@@ -16,7 +16,7 @@ The user is prompted with a modal showing how to use the app which they have to 
 
 On the sharing mobile \(in this case, desktop simulation in Brave\) any user with SharePoint open on the network shows as an animal avatar. In this case, showing the two test devices.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/c30d2d6a1b009d38d16b7babc146d1c1f8604f13/.gitbook/assets/sharedrop-3%20%281%29.png)
+![](../../.gitbook/assets/sharedrop-3.png)
 
 The connection verification between the two devices sharing is initiated by the device receiving the shared file by showing a QR code which the other device needs to read to verify. Alternately, the user can copy and send a code.
 

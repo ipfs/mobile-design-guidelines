@@ -21,7 +21,7 @@
   * [uTorrent Mobile](mobile-survey-review/mobile-survey-review-1/utorrent-mobile.md)
   * [Haven](mobile-survey-review/mobile-survey-review-1/haven.md)
   * [Fairdrop](mobile-survey-review/mobile-survey-review-1/fairdrop.md)
-* [Mobile Sharing Interaction Patterns](mobile-sharing-interaction-patterns.md)
+* [Mobile Sharing Interaction](mobile-sharing-interaction-patterns.md)
 
 ## Research
 

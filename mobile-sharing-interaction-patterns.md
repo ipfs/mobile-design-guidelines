@@ -1,4 +1,4 @@
-# Mobile Sharing Interaction Patterns
+# Mobile Sharing Interaction
 
 The most typical sharing and receiving interaction pattern on mobile devices is sharing photos. While sharing songs and videos is also common, it is usually not done by sending the actual file from device to device. Instead, it is typically done by using a messaging app to send a link to an audio or videos streaming service such as YouTube.
 
