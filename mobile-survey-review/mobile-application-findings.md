@@ -1,8 +1,6 @@
 # Mobile Application Findings
 
-
-
-The main functionalities of the applications were investigated to learn what works and what may not work for users in designing future IPFS applications for mobile.
+The applications were investigated to learn what features and interface components and patterns work and what may not work for users in designing future IPFS applications for mobile.
 
 ## [ManyVerse](mobile-survey-review-1/manyverse.md)
 

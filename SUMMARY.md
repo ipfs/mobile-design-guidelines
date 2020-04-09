@@ -22,7 +22,9 @@
   * [Fairdrop](mobile-survey-review/mobile-survey-review-1/fairdrop.md)
 * [Mobile Application Features](mobile-survey-review/mobile-features.md)
 * [Mobile Application Findings](mobile-survey-review/mobile-application-findings.md)
-* [Mobile Sharing Interaction](mobile-sharing-interaction-patterns.md)
+* [Mobile Sharing Interaction](mobile-survey-review/mobile-sharing-interaction-patterns/README.md)
+  * [Android](mobile-survey-review/mobile-sharing-interaction-patterns/android.md)
+  * [iOS](mobile-survey-review/mobile-sharing-interaction-patterns/ios.md)
 
 ## Research
 
