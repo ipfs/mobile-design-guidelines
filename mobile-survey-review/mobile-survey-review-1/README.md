@@ -2,7 +2,7 @@
 
 The following applications have been chosen for the Mobile Survey of P2P applications to show a wide spread of applications of P2P technology, spread across file sharing, community chat and posting and messaging. All were chosen as full releases available in app stores for iOS and Android or on mobile web where the vast majority of users would be able to access them.
 
-The applications were investigated to explore their main functionality to learn what work and what may not work in designing future IPFS applications for mobile.
+The main functionalities of the applications were investigated to learn what works and what may not work for users in designing future IPFS applications for mobile.
 
 ## [ManyVerse](manyverse.md)
 
@@ -11,7 +11,7 @@ Key findings for usability to inform the design phase
 * Navigation and informational organisation needs to be clear and consistent for the user
 * Connection status needs to be shown
 * Identity needs to be explained to the user if handled differently than typical login with an email and password
-* If there is a syncing ability in the app, the user should be notified of its status
+* If there is a syncing ability in the app, the user should be notified of its status and allow them to cancel if they want
 * When there are accounts in an app, the user should be able to logout
 * Connecting to other users in a P2P environment should be simple, and, if involving transferring files, require confirmation
 
@@ -21,7 +21,9 @@ Key findings for usability to inform the design phase
 
 * When making the user aware of privacy and connection implications with sharing, the information needs to be provided in a succint way with links to further information
 * If there are multiple avatars or identities present, the user needs to be identified, for instance showing the users profile amongst others as "You"
-* 
+* Always show the user where they are at in the sharing process
+* If a confirmation code or link needs to be sent to another user, provide a method of doing that in the UI directly
+
 ## [Status](status.md)
 
 Key findings for usability to inform the design phase
