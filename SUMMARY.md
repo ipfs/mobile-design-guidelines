@@ -5,7 +5,7 @@
 ## Context
 
 * [Key differences from the Browser Design Guidelines](context/key-differences-from-the-browser-design-guidelines.md)
-* [Considerations for mobile](context/considerations-for-mobile.md)
+* [Considerations for Mobile](context/considerations-for-mobile.md)
 * [Methodology](context/methodology.md)
 
 ## Mobile Survey Review
