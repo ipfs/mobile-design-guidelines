@@ -4,8 +4,8 @@
 
 ## Context
 
-* [Considerations for mobile](context/considerations-for-mobile.md)
 * [Key differences from the Browser Design Guidelines](context/key-differences-from-the-browser-design-guidelines.md)
+* [Considerations for mobile](context/considerations-for-mobile.md)
 * [Methodology](context/methodology.md)
 
 ## Interaction Review
