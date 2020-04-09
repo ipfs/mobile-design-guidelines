@@ -36,7 +36,9 @@ Key findings for usability to inform the design phase
 
 ### [FrostWire](frostwire.md)
 
-* Point 1
+* If giving the user the option to search and discover, use the native app and not an external web site
+* Any UI personlisation should happen in hidden options, not during onboarding
+* Separate different types of file transfers visually but present together, for instance downloading and seeding 
 
 ### [uTorrent Mobile](utorrent-mobile.md)
 

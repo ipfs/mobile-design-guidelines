@@ -16,43 +16,7 @@
 >
 > Easily play back your music and audio files using the integrated media player.
 
-## Setup
-
-![](../../.gitbook/assets/utorrent-screen-01.png)
-
-Setup is instant when installing the Android app and immediately goes to a confirmation screen to access local media.
-
-![](../../.gitbook/assets/utorrent-screen-04.png)
-
-The main navigation features prominently the option to upgrade to the paid version.
-
-## Download
-
-![](https://github.com/ipfs/mobile-design-guidelines/tree/c30d2d6a1b009d38d16b7babc146d1c1f8604f13/.gitbook/assets/utorrent-screen-06%20%281%29.png)
-
-The Search option in the upper global navigation opens a dialogue which the user would assume searches for torrents in the app.
-
-![](../../.gitbook/assets/utorrent-screen-03.png)
-
-Instead, Search opens a Google search of the search string entered in the dialogue.
-
-![](../../.gitbook/assets/screenshot_1585811542.png)
-
-If there are any torrent clients installed on the Android device, a system dialogue opens that link in choice of apps on the device.
-
-![](../../.gitbook/assets/utorrent-screen-07.png)
-
-The Torrents screen shows the torrent downloading and the pertinent info.
-
-![](https://github.com/ipfs/mobile-design-guidelines/tree/c30d2d6a1b009d38d16b7babc146d1c1f8604f13/.gitbook/assets/utorrent-screen-08%20%282%29.png)
-
-When the user selects the torrent, all of the files are displayed.
-
-!\[\]\[image-9\]
-
-When managing any of the torrent shares with the overflow menu, the user can select the files comprising the torrent, delete it or move the torrent.
-
-### Summary
+## Summary
 
 * Simple torrenting app which seems at the outset as simple enough to use
 * Search is not integrated into the app, but instead is overall very user unfriendly use of an integrated browser doing blanket search
@@ -60,5 +24,19 @@ When managing any of the torrent shares with the overflow menu, the user can sel
 * The main navigation on the bottom is misleading as the Video and Music links do not search for or list Video and Music, but are filters for local files
 * DLive is featured in the main, bottom navigation but is not an integrated feature that allows downloading or sharing of files but a live video stream site which features no torrent downloading or sharing
 
-\[image-9\]: ../../.gitbook/assets/utorrent-screen-09.png
+## Setup
+
+![](../../.gitbook/assets/utorrent-setup.png)
+
+Setup is instant when installing the Android app and immediately goes to a confirmation screen to access local media. The main navigation features prominently the option to upgrade to the paid version.
+
+## Download
+
+![](../../.gitbook/assets/utorrent-search.png)
+
+The Search option in the upper global navigation opens a dialogue which the user would assume searches for torrents in the app. Instead, Search opens a Google search of the search string entered in the dialogue. If there are any torrent clients installed on the Android device, a system dialogue opens that link in choice of apps on the device.
+
+![](../../.gitbook/assets/utorrent-download.png)
+
+The Torrents screen shows the torrent downloading and the pertinent info. Then, when the user selects the torrent, all of the files are displayed. When managing any of the torrent shares with the overflow menu, the user can select the files comprising the torrent, delete it or move the torrent.
 

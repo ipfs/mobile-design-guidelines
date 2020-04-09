@@ -4,8 +4,6 @@
 
 {% embed url="https://www.frostwire.com/download/?os=android&" caption="" %}
 
-## 
-
 ## Summary
 
 * Relatively simple and solid torrent application that works well on mobile
