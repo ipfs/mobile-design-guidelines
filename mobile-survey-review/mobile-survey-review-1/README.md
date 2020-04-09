@@ -4,9 +4,9 @@ The following applications have been chosen for the Mobile Survey of P2P applica
 
 The main functionalities of the applications were investigated to learn what works and what may not work for users in designing future IPFS applications for mobile.
 
-## [ManyVerse](manyverse.md)
+## Key usability findings
 
-Key findings for usability to inform the design phase
+### [ManyVerse](manyverse.md)
 
 * Navigation and informational organisation needs to be clear and consistent for the user
 * Connection status needs to be shown
@@ -15,7 +15,7 @@ Key findings for usability to inform the design phase
 * When there are accounts in an app, the user should be able to logout
 * Connecting to other users in a P2P environment should be simple, and, if involving transferring files, require confirmation
 
-## [Sharedrop](sharedrop.io.md)
+### [Sharedrop](sharedrop.io.md)
 
 Key findings for usability to inform the design phase
 
@@ -24,48 +24,23 @@ Key findings for usability to inform the design phase
 * Always show the user where they are at in the sharing process
 * If a confirmation code or link needs to be sent to another user, provide a method of doing that in the UI directly
 
-## [Status](status.md)
-
-Key findings for usability to inform the design phase
+### [Status](status.md)
 
 * Point 1
-* Point 2
-* Point 3
-* Point 4
 
-## [FrostWire](frostwire.md)
-
-Key findings for usability to inform the design phase
+### [FrostWire](frostwire.md)
 
 * Point 1
-* Point 2
-* Point 3
-* Point 4
 
-## [uTorrent Mobile](utorrent-mobile.md)
-
-Key findings for usability to inform the design phase
+### [uTorrent Mobile](utorrent-mobile.md)
 
 * Point 1
-* Point 2
-* Point 3
-* Point 4
 
-## [Haven](haven.md)
-
-Key findings for usability to inform the design phase
+### [Haven](haven.md)
 
 * Point 1
-* Point 2
-* Point 3
-* Point 4
 
-## [Fairdrop](fairdrop.md)
-
-Key findings for usability to inform the design phase
+### [Fairdrop](fairdrop.md)
 
 * Point 1
-* Point 2
-* Point 3
-* Point 4
 
