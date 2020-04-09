@@ -26,7 +26,13 @@ Key findings for usability to inform the design phase
 
 ### [Status](status.md)
 
-* Point 1
+* Onboarding processes intros should always have an option to login directly
+* Make the user aware if necessary that they will need to manage public and private encryption keys
+* Discoverability in finding other users and being made known to them should be done in app whenever possible
+* Chat functionality should meet user expectations in features, such as attaching images and files
+* Fetching and syncing of files should be automatic and not require addtional interaction
+* Posting messages to community chats or boards should happen from its own interface, and not from a contextual menu in a user to user chat screen
+* Interactions around difficult to understand themes such as blockchain are helped with imagery
 
 ### [FrostWire](frostwire.md)
 
