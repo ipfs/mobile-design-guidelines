@@ -6,6 +6,14 @@
 
 > Manyverse is a social network app using the SSB protocol \(Secure Scuttlebutt\) where you can write posts and share with friends nearby or over the internet. It's different from mainstream social networks because your data is yours, it lives on your phone, not in the cloud. So there is no login, no company holding your data, no ads, no tracking of your activity, it's just you and your friends! The app is free and open source software, and it will always remain free. \(iOS App Store\)
 
+## Summary
+
+* Available on both iOS and Android
+* At first glance simple to use, however once the user gets into it navigation and the logic of the app can become very confusing
+* Account handling is unclear and there is little in-app instruction as to how user profiles are stored
+* Appears to be able to do as it says which is online-offline syncing of messages and content and media in images which can be useful
+* Connecting to other users is difficult and unclear
+
 ## Onboarding
 
 ![](../../.gitbook/assets/manyverse-onboard.png)
@@ -26,7 +34,7 @@ If the user would like to restore an account they need to enter in a not terribl
 
 Once a profile is created or recovered, the user then is presented with their profile screen which is a list of messages \(in this case blank as it's a new user\).
 
-### Profile and settings
+## Profile and settings
 
 The default UI screen is the Messages screen where the user would compose and read messages they would receive once connected and synced via Scuttlebutt.
 
@@ -59,12 +67,4 @@ Upon clicking around the UI, I was somehow able to as a user to connect to mysel
 ![](../../.gitbook/assets/manyverse-screen-23.PNG)
 
 Viewing a user's profile and messages is rather straightforward, as is the ability to follow that user and view their bio.
-
-## Summary
-
-* Available on both iOS and Android
-* At first glance simple to use, however once the user gets into it navigation and the logic of the app can become very confusing
-* Account handling is unclear and there is little in-app instruction as to how user profiles are stored
-* Appears to be able to do as it says which is online-offline syncing of messages and content and media in images which can be useful
-* Connecting to other users is difficult and unclear
 

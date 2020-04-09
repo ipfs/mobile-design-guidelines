@@ -6,10 +6,12 @@ The following applications have been chosen for the Mobile Survey of P2P applica
 
 Key findings for usability to inform the design phase
 
-* Point 1
-* Point 2
-* Point 3
-* Point 4
+* Navigation and informational organisation needs to be clear and consistent for the user
+* Connection status needs to be shown
+* Identity needs to be explained to the user if handled differently than typical login with an email and password
+* If there is a syncing ability in the app, the user should be notified of its status
+* When there are accounts in an app, the user should be able to logout
+* Connecting to other users in a P2P environment should be simple, and, if involving transferring files, require confirmation
 
 ## [Sharedrop](sharedrop.io.md)
 
