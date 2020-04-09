@@ -28,19 +28,17 @@ Once a profile is created or recovered, the user then is presented with their pr
 
 ### Profile and settings
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/c30d2d6a1b009d38d16b7babc146d1c1f8604f13/.gitbook/assets/manyverse-screen-11%20%281%29.PNG)
-
 The default UI screen is the Messages screen where the user would compose and read messages they would receive once connected and synced via Scuttlebutt.
 
 ![](../../.gitbook/assets/manyverse-screen-10.PNG)
 
 App navigation is handled by the navigation \(“hamburger”\) menu as is customary with the Google Material UI which ManyVerse uses.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/c30d2d6a1b009d38d16b7babc146d1c1f8604f13/.gitbook/assets/manyverse-screen-15%20%281%29.PNG)
+![](../../.gitbook/assets/manyverse-screen-12%20%284%29.PNG)
 
 From the main side secondary navigation the user can see the database. There are no controls for what is in that database, as nothing in ManyVerse can be deleted. The database entries can be tapped and then the source code for each entry can be viewed.
 
-![](https://github.com/ipfs/mobile-design-guidelines/tree/c30d2d6a1b009d38d16b7babc146d1c1f8604f13/.gitbook/assets/manyverse-screen-12%20%281%29.PNG)
+![](../../.gitbook/assets/manyverse-screen-12.PNG)
 
 The profile screen doesn't provide any options outside of Name and Bio text fields as well as a profile photo.
 
