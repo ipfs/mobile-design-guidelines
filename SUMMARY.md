@@ -8,18 +8,18 @@
 * [Key differences from the Browser Design Guidelines](context/key-differences-from-the-browser-design-guidelines.md)
 * [Methodology](context/methodology.md)
 
-## Mobile Interaction Review
+## Interaction Review
 
-* [Mobile Browser Survey](mobile-interaction-review/mobile-browser-survey.md)
-* [Mobile Features](mobile-interaction-review/mobile-features.md)
-* [Mobile Application Survey Review](mobile-interaction-review/mobile-survey-review-1/README.md)
-  * [ManyVerse](mobile-interaction-review/mobile-survey-review-1/manyverse.md)
-  * [Sharedrop.io](mobile-interaction-review/mobile-survey-review-1/sharedrop.io.md)
-  * [Status](mobile-interaction-review/mobile-survey-review-1/status.md)
-  * [FrostWire](mobile-interaction-review/mobile-survey-review-1/frostwire.md)
-  * [uTorrent Mobile](mobile-interaction-review/mobile-survey-review-1/utorrent-mobile.md)
-  * [Haven](mobile-interaction-review/mobile-survey-review-1/haven.md)
-  * [Fairdrop](mobile-interaction-review/mobile-survey-review-1/fairdrop.md)
+* [Mobile Browser Survey](interaction-review/mobile-browser-survey.md)
+* [Mobile Features](interaction-review/mobile-features.md)
+* [Mobile Application Survey Review](interaction-review/mobile-survey-review-1/README.md)
+  * [ManyVerse](interaction-review/mobile-survey-review-1/manyverse.md)
+  * [Sharedrop.io](interaction-review/mobile-survey-review-1/sharedrop.io.md)
+  * [Status](interaction-review/mobile-survey-review-1/status.md)
+  * [FrostWire](interaction-review/mobile-survey-review-1/frostwire.md)
+  * [uTorrent Mobile](interaction-review/mobile-survey-review-1/utorrent-mobile.md)
+  * [Haven](interaction-review/mobile-survey-review-1/haven.md)
+  * [Fairdrop](interaction-review/mobile-survey-review-1/fairdrop.md)
 * [Mobile Sharing Interaction Patterns](mobile-sharing-interaction-patterns.md)
 
 ## Research
