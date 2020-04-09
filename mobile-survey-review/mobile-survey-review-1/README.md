@@ -52,5 +52,7 @@ The main functionalities of the applications were investigated to learn what wor
 
 ### [Fairdrop](fairdrop.md)
 
-* Point 1
+* If the user needs to have an account, they need to be told why and what benefit it has
+* Keep interaction as simple as possible
+* If a link needs to be sent, allow the user to send via OS level features
 
