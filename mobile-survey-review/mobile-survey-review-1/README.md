@@ -2,6 +2,8 @@
 
 The following applications have been chosen for the Mobile Survey of P2P applications to show a wide spread of applications of P2P technology, spread across file sharing, community chat and posting and messaging. All were chosen as full releases available in app stores for iOS and Android or on mobile web where the vast majority of users would be able to access them.
 
+The applications were investigated to explore their main functionality to learn what work and what may not work in designing future IPFS applications for mobile.
+
 ## [ManyVerse](manyverse.md)
 
 Key findings for usability to inform the design phase
@@ -17,11 +19,9 @@ Key findings for usability to inform the design phase
 
 Key findings for usability to inform the design phase
 
-* Point 1
-* Point 2
-* Point 3
-* Point 4
-
+* When making the user aware of privacy and connection implications with sharing, the information needs to be provided in a succint way with links to further information
+* If there are multiple avatars or identities present, the user needs to be identified, for instance showing the users profile amongst others as "You"
+* 
 ## [Status](status.md)
 
 Key findings for usability to inform the design phase
