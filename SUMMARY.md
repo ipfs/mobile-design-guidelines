@@ -6,21 +6,24 @@
 
 * [Considerations for mobile](context/considerations-for-mobile.md)
 * [Key differences from the Browser Design Guidelines](context/key-differences-from-the-browser-design-guidelines.md)
+* [Methodology](context/methodology.md)
+
+## Mobile Interaction Review
+
+* [Mobile Browser Survey](mobile-interaction-review/mobile-browser-survey.md)
+* [Mobile Features](mobile-interaction-review/mobile-features.md)
+* [Mobile Application Survey Review](mobile-interaction-review/mobile-survey-review-1/README.md)
+  * [ManyVerse](mobile-interaction-review/mobile-survey-review-1/manyverse.md)
+  * [Sharedrop.io](mobile-interaction-review/mobile-survey-review-1/sharedrop.io.md)
+  * [Status](mobile-interaction-review/mobile-survey-review-1/status.md)
+  * [FrostWire](mobile-interaction-review/mobile-survey-review-1/frostwire.md)
+  * [uTorrent Mobile](mobile-interaction-review/mobile-survey-review-1/utorrent-mobile.md)
+  * [Haven](mobile-interaction-review/mobile-survey-review-1/haven.md)
+  * [Fairdrop](mobile-interaction-review/mobile-survey-review-1/fairdrop.md)
+* [Mobile Sharing Interaction Patterns](mobile-sharing-interaction-patterns.md)
 
 ## Research
 
-* [Methodology](research/methodology.md)
-* [Mobile Browser Survey](research/mobile-browser-survey.md)
-* [Mobile Application Survey Review](research/mobile-survey-review-1/README.md)
-  * [ManyVerse](research/mobile-survey-review-1/manyverse.md)
-  * [Sharedrop.io](research/mobile-survey-review-1/sharedrop.io.md)
-  * [Status](research/mobile-survey-review-1/status.md)
-  * [FrostWire](research/mobile-survey-review-1/frostwire.md)
-  * [uTorrent Mobile](research/mobile-survey-review-1/utorrent-mobile.md)
-  * [Haven](research/mobile-survey-review-1/haven.md)
-  * [Fairdrop](research/mobile-survey-review-1/fairdrop.md)
-* [Mobile Features](research/mobile-features.md)
-* [Mobile Sharing Interaction Patterns](research/mobile-sharing-interaction-patterns.md)
 * [Research Assumptions](research/research-assumptions.md)
 * [Research Interviews](research/research-interviews/README.md)
   * [Experts](research/research-interviews/experts/README.md)
@@ -48,5 +51,8 @@
     * [P20](research/research-interviews/potential-users/p20.md)
     * [P21](research/research-interviews/potential-users/p21.md)
 * [Research Findings](research/research-summaries.md)
-* [Design Strategy](research/design-strategy.md)
+
+## Design
+
+* [Design Strategy](design/design-strategy.md)
 
