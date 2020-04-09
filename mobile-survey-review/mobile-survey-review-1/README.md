@@ -17,8 +17,6 @@ The main functionalities of the applications were investigated to learn what wor
 
 ### [Sharedrop](sharedrop.io.md)
 
-Key findings for usability to inform the design phase
-
 * When making the user aware of privacy and connection implications with sharing, the information needs to be provided in a succint way with links to further information
 * If there are multiple avatars or identities present, the user needs to be identified, for instance showing the users profile amongst others as "You"
 * Always show the user where they are at in the sharing process
@@ -36,17 +34,21 @@ Key findings for usability to inform the design phase
 
 ### [FrostWire](frostwire.md)
 
-* If giving the user the option to search and discover, use the native app and not an external web site
 * Any UI personlisation should happen in hidden options, not during onboarding
 * Separate different types of file transfers visually but present together, for instance downloading and seeding 
 
 ### [uTorrent Mobile](utorrent-mobile.md)
 
-* Point 1
+* If giving the user the option to search and discover, use the native app and not an external web site
+* Don't provide any additional functionality that isn't related to the core functionality of the app
+* Only show granular details of details if helps the user
 
 ### [Haven](haven.md)
 
-* Point 1
+* Tell the user as quickly as possible what the application does and what it means for them
+* Don't provide to the user multiple, unrelated places where they can do the same actions
+* Initiating chats without invites or acceptances which could be a privacy concern for many users
+* Don't use design patterns from other operating systems, it might confuse users not familiar with them
 
 ### [Fairdrop](fairdrop.md)
 
