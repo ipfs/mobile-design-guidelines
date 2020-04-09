@@ -4,13 +4,6 @@
 
 {% embed url="https://www.frostwire.com/download/?os=android&" caption="" %}
 
-## Summary
-
-* Relatively simple and solid torrent application that works well on mobile
-* Android only
-* Freemium model with the app ad-supported unless upgraded to a month by month, 6 month or yearly terms. Also has a 30 minutes free with 1 video ad play
-* Useful for mobile downloads of music and video, but probably not for teams use and collaboration
-
 ## Setup
 
 ![](../../.gitbook/assets/frostwire-setup.png)

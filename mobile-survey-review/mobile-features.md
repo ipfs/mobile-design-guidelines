@@ -1,6 +1,6 @@
-# Mobile Features
+# Mobile Application Features
 
-The spread of applications in the P2P space on mobile is sparse, but this could be to limit testing to only fully released software versions available on app stores or through mobile web. The chosen applications in the Mobile Survey all share P2P as the transport layer but vary drastically in feature sets, showing some areas to investigate use patterns. The applications are spread across three main areas of use, messaging, posting or community boards, with some having all three and others only one.
+The applications explored in the survey were found to be spread across three main areas of use, messaging, posting or community boards, with some having all three and others only one.
 
 |  | Messaging | Posting | File sharing |
 | :--- | :--- | :--- | :--- |

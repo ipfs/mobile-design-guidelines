@@ -22,14 +22,6 @@
 
 > Haven harnesses the [Protocol Labs](https://protocol.ai/)’ InterPlanetary File System \(IPFS\), to solve a problem that hamstrung earlier versions of OpenBazaar. Because OpenBazaar is a peer-to-peer network, users had to run the software 24/7 for their stores to “stay open.” That’s a tall order for store owners. A few years ago, the OpenBazaar team started looking for a solution to this problem. They discovered IPFS and rebuilt OpenBazaar to use it. Today, OpenBazaar is one of the largest decentralized networks that use IPFS at its core.
 
-## Summary
-
-* Haven is a well designed and user-friendly app that does away with a lot of the upfront key and profile management often present in apps involving P2P purchases and cryptocurrency wallets.
-* There are multiple places in the app where the user can sell, post, chat and pay which might be confusing for some
-* Chats can be initiated with anyone without invites or acceptances which could be a privacy concern for many users
-* Many of the interaction patterns follow Google Material design system which is well known to many mobile users, although it does as well on iOS which might be confusing to those used to native iOS patterns
-* Haven does not present the user with a lot of information or details upfront on the P2P technology used, including IPFS, to the user which reduces cognitive load in using the app, but presents it in terms of general safety and privacy actions
-
 ## Onboarding
 
 ![](../../.gitbook/assets/haven-screen-1.PNG)

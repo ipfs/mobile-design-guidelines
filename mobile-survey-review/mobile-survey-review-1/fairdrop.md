@@ -6,12 +6,6 @@
 
 > An easy and secure way to send your files. No central server. No tracking. No backdoors.
 
-## Summary
-
-* Simple method of interaction
-* It is not clear what is involved with accounts and signup for accounts without the user going through the process
-* Does not give the user an option to use OS level integrated method \(SMS, email, etc.\) to send the link once the file is sent
-
 ## Sharing
 
 ![](../../.gitbook/assets/fairdrop-upload.png)

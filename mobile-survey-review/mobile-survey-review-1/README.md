@@ -1,58 +1,57 @@
-# Mobile Application Survey Review
+# Mobile Application Survey
 
-The following applications have been chosen for the Mobile Survey of P2P applications to show a wide spread of applications of P2P technology, spread across file sharing, community chat and posting and messaging. All were chosen as full releases available in app stores for iOS and Android or on mobile web where the vast majority of users would be able to access them.
+The spread of applications in the P2P space on mobile is sparse, but this could be to limit testing to only fully released software versions available on app stores or through mobile web. The chosen applications in the Mobile Survey all share P2P as the transport layer but vary drastically in feature sets, showing some areas to investigate use patterns.
 
-The main functionalities of the applications were investigated to learn what works and what may not work for users in designing future IPFS applications for mobile.
+## [ManyVerse](manyverse.md)
 
-## Key usability findings
+* Available on both iOS and Android
+* At first glance simple to use, however once the user gets into it navigation and the logic of the app can become very confusing
+* Account handling is unclear and there is little in-app instruction as to how user profiles are stored
+* Appears to be able to do as it says which is online-offline syncing of messages and content and media in images which can be useful
+* Connecting to other users is difficult and unclear
 
-### [ManyVerse](manyverse.md)
+## [Sharedrop](sharedrop.io.md)
 
-* Navigation and informational organisation needs to be clear and consistent for the user
-* Connection status needs to be shown
-* Identity needs to be explained to the user if handled differently than typical login with an email and password
-* If there is a syncing ability in the app, the user should be notified of its status and allow them to cancel if they want
-* When there are accounts in an app, the user should be able to logout
-* Connecting to other users in a P2P environment should be simple, and, if involving transferring files, require confirmation
+* Web app only, although works in most mobile browsers
+* Confusing avatars sometimes seem to reload differently making choosing shares confusing
+* File transfer of a 2MB photo was instantaneous
+* Would probably work better as a native app but very good that does not require any accounts or install to use
+* Could be hard to use for some users to follow and understand what is going on in the sharing work flow
 
-### [Sharedrop](sharedrop.io.md)
+## [Status](status.md)
 
-* When making the user aware of privacy and connection implications with sharing, the information needs to be provided in a succint way with links to further information
-* If there are multiple avatars or identities present, the user needs to be identified, for instance showing the users profile amongst others as "You"
-* Always show the user where they are at in the sharing process
-* If a confirmation code or link needs to be sent to another user, provide a method of doing that in the UI directly
+* Solid and user friendly blockchain app which enables relatively inexperienced users to get started with blockchain dApps
+* While the sign-on process is typical and smooth for a blockchain app, it might be confusing to those who just wish to use P2P without public and private keys and maintaining them
+* Chat is solid and user friendly and has discoverability as well
+* Any transferring of files can only take place with a loaded dApp in the Browser, meaning Status does not have file transfer functionality built in
+* Might benefit from allowing users to share things directly through a native function or perhaps through Chat.
 
-### [Status](status.md)
+## [FrostWire](frostwire.md)
 
-* Onboarding processes intros should always have an option to login directly
-* Make the user aware if necessary that they will need to manage public and private encryption keys
-* Discoverability in finding other users and being made known to them should be done in app whenever possible
-* Chat functionality should meet user expectations in features, such as attaching images and files
-* Fetching and syncing of files should be automatic and not require addtional interaction
-* Posting messages to community chats or boards should happen from its own interface, and not from a contextual menu in a user to user chat screen
-* Interactions around difficult to understand themes such as blockchain are helped with imagery
+* Relatively simple and solid torrent application that works well on mobile
+* Android only
+* Freemium model with the app ad-supported unless upgraded to a month by month, 6 month or yearly terms. Also has a 30 minutes free with 1 video ad play
+* Useful for mobile downloads of music and video, but probably not for teams use and collaboration
 
-### [FrostWire](frostwire.md)
+## [uTorrent Mobile](utorrent-mobile.md)
 
-* Any UI personlisation should happen in hidden options, not during onboarding
-* Separate different types of file transfers visually but present together, for instance downloading and seeding 
+* Simple torrenting app which seems at the outset as simple enough to use
+* Search is not integrated into the app, but instead is overall very user unfriendly use of an integrated browser doing blanket search
+* Downloading isn't consistent and sometimes requires the user to copy and paste the torrent link and then add through the app manually
+* The main navigation on the bottom is misleading as the Video and Music links do not search for or list Video and Music, but are filters for local files
+* DLive is featured in the main, bottom navigation but is not an integrated feature that allows downloading or sharing of files but a live video stream site which features no torrent downloading or sharing
 
-### [uTorrent Mobile](utorrent-mobile.md)
+## [Haven](haven.md)
 
-* If giving the user the option to search and discover, use the native app and not an external web site
-* Don't provide any additional functionality that isn't related to the core functionality of the app
-* Only show granular details of details if helps the user
+* Haven is a well designed and user-friendly app that does away with a lot of the upfront key and profile management often present in apps involving P2P purchases and cryptocurrency wallets.
+* There are multiple places in the app where the user can sell, post, chat and pay which might be confusing for some
+* Chats can be initiated with anyone without invites or acceptances which could be a privacy concern for many users
+* Many of the interaction patterns follow Google Material design system which is well known to many mobile users, although it does as well on iOS which might be confusing to those used to native iOS patterns
+* Haven does not present the user with a lot of information or details upfront on the P2P technology used, including IPFS, to the user which reduces cognitive load in using the app, but presents it in terms of general safety and privacy actions
 
-### [Haven](haven.md)
+## [Fairdrop](fairdrop.md)
 
-* Tell the user as quickly as possible what the application does and what it means for them
-* Don't provide to the user multiple, unrelated places where they can do the same actions
-* Initiating chats without invites or acceptances which could be a privacy concern for many users
-* Don't use design patterns from other operating systems, it might confuse users not familiar with them
-
-### [Fairdrop](fairdrop.md)
-
-* If the user needs to have an account, they need to be told why and what benefit it has
-* Keep interaction as simple as possible
-* If a link needs to be sent, allow the user to send via OS level features
+* Simple method of interaction
+* It is not clear what is involved with accounts and signup for accounts without the user going through the process
+* Does not give the user an option to use OS level integrated method \(SMS, email, etc.\) to send the link once the file is sent
 

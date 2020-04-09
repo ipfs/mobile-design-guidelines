@@ -12,8 +12,7 @@
 * [Mobile Browser Survey](mobile-survey-review/mobile-browser-survey/README.md)
   * [Android](mobile-survey-review/mobile-browser-survey/android.md)
   * [iOS](mobile-survey-review/mobile-browser-survey/ios.md)
-* [Mobile Features](mobile-survey-review/mobile-features.md)
-* [Mobile Application Survey Review](mobile-survey-review/mobile-survey-review-1/README.md)
+* [Mobile Application Survey](mobile-survey-review/mobile-survey-review-1/README.md)
   * [ManyVerse](mobile-survey-review/mobile-survey-review-1/manyverse.md)
   * [Sharedrop.io](mobile-survey-review/mobile-survey-review-1/sharedrop.io.md)
   * [Status](mobile-survey-review/mobile-survey-review-1/status.md)
@@ -21,6 +20,8 @@
   * [uTorrent Mobile](mobile-survey-review/mobile-survey-review-1/utorrent-mobile.md)
   * [Haven](mobile-survey-review/mobile-survey-review-1/haven.md)
   * [Fairdrop](mobile-survey-review/mobile-survey-review-1/fairdrop.md)
+* [Mobile Application Features](mobile-survey-review/mobile-features.md)
+* [Mobile Application Findings](mobile-survey-review/mobile-application-findings.md)
 * [Mobile Sharing Interaction](mobile-sharing-interaction-patterns.md)
 
 ## Research

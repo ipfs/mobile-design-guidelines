@@ -20,14 +20,6 @@
 >
 > Access Ethereum based applications on web3. Play games, exchange digital assets and more.
 
-## Summary
-
-* Solid and user friendly blockchain app which enables relatively inexperienced users to get started with blockchain dApps
-* While the sign-on process is typical and smooth for a blockchain app, it might be confusing to those who just wish to use P2P without public and private keys and maintaining them
-* Chat is solid and user friendly and has discoverability as well
-* Any transferring of files can only take place with a loaded dApp in the Browser, meaning Status does not have file transfer functionality built in
-* Might benefit from allowing users to share things directly through a native function or perhaps through Chat.
-
 ## Onboarding
 
 ![](../../.gitbook/assets/status-onboard.png)

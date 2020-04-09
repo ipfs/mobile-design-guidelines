@@ -16,14 +16,6 @@
 >
 > Easily play back your music and audio files using the integrated media player.
 
-## Summary
-
-* Simple torrenting app which seems at the outset as simple enough to use
-* Search is not integrated into the app, but instead is overall very user unfriendly use of an integrated browser doing blanket search
-* Downloading isn't consistent and sometimes requires the user to copy and paste the torrent link and then add through the app manually
-* The main navigation on the bottom is misleading as the Video and Music links do not search for or list Video and Music, but are filters for local files
-* DLive is featured in the main, bottom navigation but is not an integrated feature that allows downloading or sharing of files but a live video stream site which features no torrent downloading or sharing
-
 ## Setup
 
 ![](../../.gitbook/assets/utorrent-setup.png)

@@ -4,14 +4,6 @@
 
 > **ShareDrop** is a peer-to-peer file sharing app powered by HTML5 WebRTC.
 
-## Summary
-
-* Web app only, although works in most mobile browsers
-* Confusing avatars sometimes seem to reload differently making choosing shares confusing
-* File transfer of a 2MB photo was instantaneous
-* Would probably work better as a native app but very good that does not require any accounts or install to use
-* Could be hard to use for some users to follow and understand what is going on in the sharing work flow
-
 ## Sharing
 
 ShareDrop is a web application that also works on mobile. For testing purposes, it seemed to work in this case on Brave \(desktop/mobile\) and Safari \(mobile\). It had worked previously on Firefox \(desktop/mobile\) but that was not working for this particular testing.
