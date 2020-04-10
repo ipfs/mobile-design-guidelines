@@ -14,11 +14,9 @@ The ManyVerse onboarding flow is thorough and explanatory, albeit a lot of readi
 
 ![](../../.gitbook/assets/manyverse-account.png)
 
-When setting up the app for the first time the user encounters a typical pattern of setting up an account or restoring one.
+When setting up the app for the first time the user encounters a typical pattern of setting up an account or restoring one. When a new account is setup however, there is no indication or notification that the account has been setup, nor of the profile that has been setup for them.
 
-When a new account is setup however, there is no indication or notification that the account has been setup, nor of the profile that has been setup for them.
-
-If the user would like to restore an account they need to enter in a not terribly friendly 48 word recovery phrase. While this is no doubt highly secure, and despite essentially functioning like a password for the user, there could be other recovery options available.
+If the user would like to restore an account they need to enter in a 48 word recovery phrase. While this is no doubt highly secure, and despite essentially functioning like a password for the user, there could be other recovery options available.
 
 Once a profile is created or recovered, the user then is presented with their profile screen which is a list of messages \(in this case blank as it's a new user\).
 
@@ -30,11 +28,11 @@ The default UI screen is the Messages screen where the user would compose and re
 
 ![](../../.gitbook/assets/manyverse-profile.png)
 
-App navigation is handled by the navigation \(“hamburger”\) menu as is customary with the Google Material UI which ManyVerse uses. The first accessible screen is the profile screen which doesn't provide any options outside of Name and Bio text fields and profile photo. The user can then see the database for which there are no controls as nothing in ManyVerse can be deleted. The database entries, however, can be tapped and then the source code for each can be viewed.
+App navigation is handled by the navigation menu as is customary with the Google Material UI, which ManyVerse uses. The first accessible screen is the profile screen which doesn't provide any options outside of Name and Bio text fields and profile photo. Nothing in ManyVerse can be deleted, so when the user sees the database, there are no controls. The user can view the source code for each database entry by tapping the entry.
 
 ![](../../.gitbook/assets/manyverse-connections.png)
 
-The Connections screen, despite having a multitude of options to connect to other ManyVerse or Scuttlebutt users, for instance via the Wifi network the user is currently on, via P2P or via a P2P pub server, it is only possible to get onto any of these from the start it seems by getting an invite to a pub server or having another person on the same network as you. This makes discovery extremely difficult for the user.
+The Connections screen has a multitude of options to connect to other ManyVerse or Scuttlebutt users. To connect to another user, one needs to receive an invite to a "pub server" or be on the same Wifi network the user is currently on, via P2P or via a P2P pub server.
 
 ## Messaging
 
@@ -44,7 +42,7 @@ Messaging seems rather straight forward in ManyVerse, with a threaded view and L
 
 ![](../../.gitbook/assets/manyverse-screen-22.PNG)
 
-Upon clicking around the UI, I was somehow able to as a user to connect to myself on the Wifi network. At this point I was also able to follow myself which was unclear how this happened as well as what led me to this. There is a chance that while looking for pub servers on the Mac desktop Patchwork client that it somehow enabled this over the network, but for a novice absolutely nothing was clear. Also there is an obvious usability problem in being able to connect to yourself, or having multiple identities potentially running on the same app at the same time with no audit trail for the connections.
+Upon clicking around the UI, I was somehow able to as a user to connect to myself on the Wifi network. At this point, I was also able to follow myself, which was unclear how this happened as well as what led me to this. There is a chance that while looking for pub servers on the Mac desktop Patchwork client that it somehow enabled this over the network, but for a novice absolutely nothing was clear. Also, there is an obvious usability problem in being able to connect to yourself, or having multiple identities running on the same app at the same time with no audit trail for the connections.
 
 ![](../../.gitbook/assets/manyverse-screen-23.PNG)
 
