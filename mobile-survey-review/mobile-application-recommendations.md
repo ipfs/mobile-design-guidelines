@@ -11,21 +11,14 @@
 | Users can be connected to and sent images without confirmation | If chat allows for files like images to be sent, require confirmation to send for the user |
 | When a new account is setup, there is no indication to the user that the account has been setup successfully | Show confirmation that profiles and other settings are done and okay |
 
-## 
-
 ## Sharedrop
 
-* When making the user aware of privacy and connection implications with sharing, the information needs to be provided in a succint way with links to further information
-* If there are multiple avatars or identities present, the user needs to be identified, for instance showing the users profile amongst others as "You"
-* Always show the user where they are at in the sharing process
-* If a confirmation code or link needs to be sent to another user, provide a method of doing that in the UI directly
-
-|  |  |
+| Finding | Recommendation |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Users are made aware of privacy and connection implications with sharing | Information needs to be provided in a succint way with links to further information |
+| Users present on the network are each given a unique avatar and anonymous name | If there are multiple avatars or identities present, the user needs which is them |
+| No progress indication where the user is at in the sharing process | Show the user how much more they have to complete any sharing interaction |
+| Shows link and QR code to send or give to the other user | Give the user a way to share any links or codes in the UI directly |
 
 ## Status
 
