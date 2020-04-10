@@ -25,6 +25,7 @@
   * [Fairdrop](mobile-survey-review/mobile-survey-review-1/fairdrop.md)
 * [Mobile Application Features](mobile-survey-review/mobile-features.md)
 * [Mobile Application Findings](mobile-survey-review/mobile-application-findings.md)
+* [Mobile Application Recommendations](mobile-survey-review/mobile-application-recommendations.md)
 
 ## User Research
 
