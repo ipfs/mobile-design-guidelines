@@ -1,25 +1,49 @@
 # Mobile Application Findings
 
-The applications were investigated to learn what features and interface components and patterns work and what may not work for users in designing future IPFS applications for mobile.
+## ManyVerse
 
+* Connection status is not shown when the user logs in, they need to go to Connections screen
+* Identity and accounts not handled with a typical login and password
+* Syncing status of content is not made apparent to the user
+* There is no logout option unless the user closes the app
+* Users can be connected to and sent images without confirmation
+* When a new account is setup, there is no indication to the user that the account has been setup successfully
 
+## Sharedrop
 
-|  | ManyVerse | Sharedrop.io | Status | FrostWire | uTorrent Mobile | Haven | Fairdrop |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Connection status shown** | On Connections screen | No | No | When network unavailable | When network unavailable | No | No |
-| **Connection quality shown** | No | No | No | Speed displayed | Speed displayed | Speed displayed | No |
-| **Account with login and password** | Optional | None | Required with private key | Optional | Optional | Optional | Optional |
-| **Private key recovery** | 48 word recovery phrase | No | Seed phrase | No | No | Yes | Only when mailbox is setup |
-| **Profile change confirmation** | None | N/A | When changing login information | N/A | Yes | No | No |
-| **User logout** | No | N/A | Yes | N/A | If have account | No | Only when mailbox is setup |
-| **Syncing status shown** | "Loading..." and greyed out on startup | N/A | N/A | N/A | N/A | N/A | N/A |
-| **File transfer confirmation** | No | Yes | N/A | Notification of completed download | Notification of completed download | N/A | Yes |
-| **Privacy and connection information** | During onboarding | During onboarding | During onboarding | During onboarding | During onboarding | During onboarding | During onboarding |
-| **Default avatar and anonymous name on network** | Yes | Yes | Yes | N/A | N/A | Yes | Yes |
-| **Sharing progress indication** | N/A | Progress bar | N/A | Progress bar | Progress bar | N/A | Progress bar |
-| **Link or QR code to share** | N/A | QR code and URL | For crypto payments | N/A | N/A | For crypto payments | URL |
-| **User discoverability** | No | Yes | Yes | N/A | N/A | Yes | N/A |
-| **Chat attachments** | Images | N/A | Only in-app stickers | N/A | N/A | No | N/A |
-| **File search** | No | N/A | Browser support dependent | In-app | Browser support dependent | N/A | N/A |
-| **Mediaplayer** | N/A | Browser support dependent | Browser support dependent | Yes | Yes | N/A | Browser support dependent |
+* Users are made aware of privacy and connection implications with sharing
+* Users present on the network are each given a unique avatar and anonymous name
+* No progress indication where the user is at in the sharing process
+* Shows link and QR code to send or give to the other user
+
+## Status
+
+* Blockchain app which requires using and managing keys
+* Onboarding process includes an option to login directly
+* Features discoverability in finding other users and being made known to them
+* Chat functionality does not attaching images and files, only stickers
+* Fetching and syncing of messages may require addtional interaction
+* Users can post messages to community chats or boards
+
+## FrostWire
+
+* UI personlisation presented during onboarding
+* Different types of file transfers such as downloading and seeing are presented together but visually differentiated
+
+## uTorrent Mobile
+
+* Users extenal search engine on web page to find files to open in the app
+* Additional functionality to watch live videos that are not torrents can not be downloaded
+* Global app navigation filters media file types instead of taking user to other screens or functionality
+* Details of torrents be selected or deselected for downloading and seeding
+
+## Haven
+
+* User can post, chat and pay from Profile just as they can from the Shop, Social and Chats screens
+* Can initiating chats without invites or acceptances from other users
+
+## Fairdrop
+
+* Has optional account which allows user to view history of uploads and downloads
+* User provided a link and no QR code to send to the person being shared to
 
