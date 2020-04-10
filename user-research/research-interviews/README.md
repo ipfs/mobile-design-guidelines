@@ -14,7 +14,7 @@ The Early Adopters cohort all worked in fields adjacent to P2P, for instance in 
 
 ## Potential Users
 
-Potential Users were all in Europe and Africa and all smart phone users specifically recruited as not having any specialist knowledge or work experience in the tech and software fields. All had at least some knowledge or passing familiarity with P2P and cloud services such as Dropbox and Google Drive. The Potential Users cohort were non-technical users intersted in better file sharing solutions that would work better for everyone.
+Potential Users were all in Europe and Africa and all smartphone users specifically recruited as not having any specialist knowledge or work experience in the tech and software fields. All had at least some knowledge or passing familiarity with P2P and cloud services such as Dropbox and Google Drive. The Potential Users cohort were non-technical users interested in better file sharing solutions that would work better for everyone.
 
 [Read more](potential-users/)
 

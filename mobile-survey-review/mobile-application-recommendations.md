@@ -46,8 +46,6 @@
 
 ## Haven
 
-> Haven is a well designed and user-friendly app that does away with a lot of the upfront key and profile management often present in apps involving P2P purchases and cryptocurrency wallets.
-
 * Tell the user as quickly as possible what the application does and what it means for them
 * Don't provide to the user multiple, unrelated places where they can do the same actions
 * Initiating chats without invites or acceptances which could be a privacy concern for many users
