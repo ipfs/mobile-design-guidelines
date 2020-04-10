@@ -24,11 +24,11 @@
 
 ![](../../.gitbook/assets/status-onboard.png)
 
-As most apps, especially messaging and transactional apps involving accounts, Status has a three screen onboarding intro explaining to the user in a terse and uncomplicated manner what they will be doing in signing up and using the app.
+As most apps, primarily messaging and transactional apps involving accounts, Status has a three-screen onboarding intro explaining to the user in a concise and uncomplicated manner what they will be doing in signing up and using the app.
 
 ![](../../.gitbook/assets/status-screen-04.PNG)
 
-As this uses blockchain technologies, there are sets of keys, public and private involved, meaning the user needs to then be aware of this to access their account, but could lead to confusion with novice users unused to this.
+As this uses blockchain technologies, there are sets of keys, public and private involved, meaning the user needs to be then aware of this to access their account but could lead to confusion with novice users unused to this.
 
 ![](../../.gitbook/assets/status-screen-05.PNG)
 
@@ -36,7 +36,7 @@ The user needs to choose a chat name which it will default to. This can be chang
 
 ![](../../.gitbook/assets/status-recover.png)
 
-Recovering keys is a long winded process for most non-blockchain users where they need to enter in a seed phrase which is a string of 12 or more words. Again, not very usual or useful for the uninitiated, but a common pattern in blockchain \(d\)apps.
+Recovering keys is a long-winded process for most non-blockchain users where they need to enter in a seed phrase which is a string of 12 or more words. Again, not very usual or useful for the uninitiated, but a typical pattern in blockchain \(d\)apps.
 
 ![](../../.gitbook/assets/status-screen-10.PNG)
 
@@ -52,11 +52,11 @@ The main navigation features the main modes of Status \(Chat, Browser, Wallet an
 
 ![](../../.gitbook/assets/status-screen-12.PNG)
 
-Inviting people to chat is not a typical process and involves not discovery of existing users that the user might already have a phone number or email of in their Contacts application \(common on chat programs such as WhatsApp and Telegram\) but instead an invite has to be sent through the OS to the person to be invited.
+Inviting people to chat is not a typical process. The user can not discover other users. They need to have an invite sent to them or sent one to others.
 
 ![](../../.gitbook/assets/status-chat.png)
 
-To start a secure P2P message, or join a conversation, the user needs choose which they want to do through the pull-up shelf options. If joining a public chat they have a number of rooms that they can choose from. The user can also start a new room with by typing the name into the text field.
+To start a secure P2P message, or join a conversation, the user needs to choose which they want to do through the pull-up shelf options. If joining a public chat, they have several rooms that they can choose from. The user can also start a new room with by typing the name into the text field.
 
 ![](../../.gitbook/assets/status-screen-15.PNG)
 

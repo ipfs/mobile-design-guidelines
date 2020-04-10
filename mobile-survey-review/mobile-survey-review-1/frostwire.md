@@ -8,7 +8,7 @@
 
 ![](../../.gitbook/assets/frostwire-setup.png)
 
-When first starting the FrostWire app, the user is not given the option to setup an account as in other P2P applications, especially those involving chat and messaging, but instead has to agree to legal terms about what files will be downloaded and shared over the P2P network.
+When first starting the FrostWire app, the user is not given the option to set up an account as in other P2P applications, especially those involving chat and messaging, but instead has to agree to legal terms about what files will be downloaded and shared over the P2P network.
 
 ## Download and Manage
 
@@ -26,5 +26,5 @@ After downloading, the file immediately starts seeding. The file now being seede
 
 ![](../../.gitbook/assets/frostwire-details.png)
 
-Finally, the user can manage all of their files from a download and share use. While most users may not dig this deep into the granularity of sharing over P2P, it is good practice that is included and the user has complete control over the share.
+Finally, the user can manage all of their files from a download and share use. While most users may not dig this deep into the granularity of sharing over P2P, and the user has complete control over the share.
 

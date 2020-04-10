@@ -30,5 +30,5 @@ The Search option in the upper global navigation opens a dialogue which the user
 
 ![](../../.gitbook/assets/utorrent-download.png)
 
-The Torrents screen shows the torrent downloading and the pertinent info. Then, when the user selects the torrent, all of the files are displayed. When managing any of the torrent shares with the overflow menu, the user can select the files comprising the torrent, delete it or move the torrent.
+The Torrents screen shows the torrent downloading and the pertinent info. Then, when the user selects the torrent, all of the files are displayed. When managing any of the torrent shares with the overflow menu, the user can choose the files comprising the torrent, delete it or move the torrent.
 

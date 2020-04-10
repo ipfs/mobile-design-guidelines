@@ -26,13 +26,13 @@
 
 ![](../../.gitbook/assets/haven-screen-1.PNG)
 
-The user is first presented with either creating a new profile or restoring a previous one. When creating a profile, they need to include location and currency as the focus of this platform is shopping. At this point the user actually doesn't need to create a profile and can remain anonymous.
+The user first needs to either create a new profile or restoring a previous one. When creating a profile, they need to include location and currency as the focus of this platform is shopping. At this point, the user doesn't need to create a profile and can remain anonymous.
 
 ## Browsing and shopping
 
 ![](../../.gitbook/assets/haven-screen-3.PNG)
 
-The default screen is the Shop screen where items can be chose to buy with crypto currency held within a wallet inside of Haven. Each of these items has a typical item screen showing a larger picture of the item for sale, its price in the chosen currency and cryptocurrencies as well as buying information.
+The default screen is the Shop screen where the user can choose items to buy with cryptocurrency held within a wallet inside of Haven. Each of these items has a typical item screen showing a larger picture of the item for sale, its price in the chosen currency and cryptocurrencies as well as buying information.
 
 ![](../../.gitbook/assets/haven-screen-16%20%281%29.PNG)
 
@@ -42,11 +42,11 @@ The Floating Action Button \("+" in the Google Material pattern on the bottom ap
 
 ![](../../.gitbook/assets/haven-messaging.png)
 
-The Social screen shows feeds of other Haven users that are followed or the global feed of posts and activity. The Chat screen shows chats with other users that have to be already connected to or followed. Each user needs to be added individually by searching for other users.
+The Social screen shows feeds of other Haven users that the user follows or the global feed of posts and activity. The Chat screen shows chats with other users that have to be already connected to or followed. Each user needs to be added individually by searching for other users.
 
 ## Identity and Setting
 
 ![](../../.gitbook/assets/haven-identity.png)
 
-The user profile is shown and chat can be started without any invites or acceptances on the other user's part. Looking at the user's own profile, they can see that they are still anonymous and have a number of options and setting, as well as the ability to track purchases and sales and their cryptocurrency wallet. The Profile screen also provides the option to do much of what is done in the Haven store as well as create a more personal and less anonymous profile. Oddly, the user can create listings, posts and shares from the Profile screen just as they can from the Shop and Chat screens.
+In the profile, the user can chat without any invites or acceptances on the other user's part. Looking at the user's profile, they can see that they are still anonymous and have several options and settings, as well as the ability to track purchases and sales and their cryptocurrency wallet. The Profile screen also provides the opportunity to do much of what is done in the Haven store. They can also create a more personal and less anonymous profile. Oddly, the user can create listings, posts and shares from the Profile screen just as they can from the Shop and Chat screens.
 
