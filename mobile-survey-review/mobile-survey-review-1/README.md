@@ -13,7 +13,6 @@ The applications in the Mobile Application Survey all share P2P as the transport
 
 * Available on both iOS and Android
 * Uses SSB \([Scuttlebutt](https://www.scuttlebutt.nz)\) communications and syncs via Bluetooth, LAN, or internets
-* P2P is used primarily to handle chat
 * When a new account is setup there is no indication or notification to the user that the account has been setup successfully, nor of the profile that has been setup for them
 * Appears to be able to do as it says which is online-offline syncing of messages and content and media
 * Connecting to other users requires explicit invites to or invites to "pubs" chat rooms
@@ -47,9 +46,9 @@ The applications in the Mobile Application Survey all share P2P as the transport
 ## [uTorrent Mobile](utorrent-mobile.md)
 
 * Torrent application available for mobile on Android only
-* P2P is used to download and seed files
 * Torrent search is not integrated into the app and instead uses Google search web page
-* Downloading may require the user to copy and paste the torrent link from a search results page and then add through the app manually
+* Downloading sometimes requires the user to copy and paste the torrent link from a search results page and then add through the app manually
+* Navigation Video and Music links do not search for or list Video and Music, but are filters for local files
 * Features DLive, a live video stream site which features no torrent downloading or sharing
 * Integrated media player
 

@@ -40,7 +40,6 @@ The applications were investigated to learn what features and interface componen
 
 * If giving the user the option to search and discover, use the native app and not an external web site
 * Don't provide any additional functionality that isn't related to the core functionality of the app
-* Global app navigation should be for functionality and not second-order functionality like filtering
 * Only show granular details of details if helps the user
 
 ## [Haven](mobile-survey-review-1/haven.md)
