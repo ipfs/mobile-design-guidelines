@@ -1,6 +1,6 @@
 # Mobile Application Survey
 
-The spread of applications in the P2P space on mobile is sparse, but this could be to limit testing to only fully released software versions available on app stores or through mobile web. The chosen applications in the Mobile Survey all share P2P as the transport layer but vary drastically in feature sets.
+There are not many mobile applications in the P2P space. We have chosen and tested a variety of available, meaning publicly released software available on app stores or through mobile web, apps to understand previous approaches to designing and developing mobile P2P applications. The applications in the Mobile Application Survey all share P2P as the transport layer but vary drastically in feature sets, allowing us to see a broad spectrum of current use cases. This will help us help others design better and more useful apps, choosing the right features, and how to implement them in an interface that works for users.
 
 ## [ManyVerse](manyverse.md)
 
