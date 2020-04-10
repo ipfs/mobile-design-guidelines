@@ -6,6 +6,8 @@ The applications in the Mobile Application Survey all share P2P as the transport
 
 ## ManyVerse
 
+_Messaging, posting_
+
 * Available on both iOS and Android
 * Uses SSB \([Scuttlebutt](https://www.scuttlebutt.nz)\) communications and syncs via Bluetooth, LAN, or internets
 * P2P is used primarily to handle chat
@@ -14,6 +16,8 @@ The applications in the Mobile Application Survey all share P2P as the transport
 [Read more](manyverse.md)
 
 ## Sharedrop
+
+_File transfer_
 
 * Web app only \(tested on iOS Firefox, iOS Safari and Android Chrome\)
 * HTML5 clone of Apple AirDrop service using WebRTC for secure P2P file transfer
@@ -26,6 +30,8 @@ The applications in the Mobile Application Survey all share P2P as the transport
 
 ## Status
 
+_Messaging, posting_
+
 * Available on both iOS and Android
 * Messaging uses P2P Whisper protocol and end-to-end encryption
 * Chat discoverability allows for finding of other users
@@ -35,6 +41,8 @@ The applications in the Mobile Application Survey all share P2P as the transport
 [Read more](status.md)
 
 ## FrostWire
+
+_File sharing_
 
 * Torrent application available for mobile on Android only
 * Freemium model with the app ad-supported unless upgraded to a month by month, 6 month or yearly terms. Also has a 30 minutes free with 1 video ad play
@@ -47,6 +55,8 @@ The applications in the Mobile Application Survey all share P2P as the transport
 
 ## uTorrent Mobile
 
+_File sharing_
+
 * Torrent application available for mobile on Android only
 * P2P is used to download and seed files
 * Torrent search is not integrated into the app and instead uses Google search web page
@@ -58,6 +68,8 @@ The applications in the Mobile Application Survey all share P2P as the transport
 
 ## Haven
 
+_Messaging, posting_
+
 * Available on both iOS and Android
 * Haven uses IPFS to run the OpenBazaar P2P network
 * Users can sell and chat about items for sale, create post and make payments with cryptocurrency multiwallet
@@ -67,6 +79,8 @@ The applications in the Mobile Application Survey all share P2P as the transport
 [Read more](haven.md)
 
 ## Fairdrop
+
+_File transfer_
 
 * Web app only \(tested on iOS Firefox, iOS Safari and Android Chrome\)
 * Runs on the Ethereum network and uses Swarm’s decentralised storage system for file storing and sending

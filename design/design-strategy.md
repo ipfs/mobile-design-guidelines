@@ -20,7 +20,7 @@ The guidelines need to be translated to design. The results and key findings fro
 * How might IPFS Mobile support media files?
 * How might users be supported in knowing if necessary, “where” a file might be and who can access it?
 * How might we design notifications to best support users in their awareness of syncing and sharing status?
-* How might we hide from users the fact that IPFS Mobile is a P2P network? 
+* Should we hide from users the fact that IPFS on mobile is a P2P network?
 * How might IPFS Mobile show through setup and interaction how it works and why it’s beneficial?
 * How might users be made aware that their use of IPFS Mobile will not create problems with battery life?
 * How might we show users offline functionality in their regular use in IPFS Mobile?

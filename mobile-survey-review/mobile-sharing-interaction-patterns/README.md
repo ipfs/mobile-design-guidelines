@@ -1,6 +1,6 @@
 # Mobile Sharing Interaction
 
-One of the most typical sharing and receiving interactions on mobile devices mentioned in the research interviews is sharing photos. While sharing songs and videos is also common, it is usually not done by sending the actual file from device to device. Instead, it is typically done by using a messaging app to send a link to an audio or videos streaming service such as YouTube.
+Mobile sharing of files is a very common activity for all ranges of users, but what sort of file being shared varies from the desktop. One of the most typical sharing and receiving interactions on mobile devices is the sharing of photos, and is done often times by sending the file from one phone to another, often with a messaging service. While sharing songs and videos is also common, it is usually not done by sending the actual file from device to device. Instead, it is typically done by using a messaging app to send a link to an audio or videos streaming service such as YouTube. Sharing photos therefore was chosen as an interaction to study to understand how mobile users would think about how to get a file to another device from their phone.
 
 ## Key findings
 

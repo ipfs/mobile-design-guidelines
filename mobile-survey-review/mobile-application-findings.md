@@ -8,7 +8,7 @@ The applications were investigated to learn what features and interface componen
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Connection status shown** | On Connections screen | N/A | No | When network unavailable | When network unavailable | No | No |
 | **Account with login and password** | Optional | None | Required with private key | Optional | Optional | Optional | Optional |
-| **Settings change confirmation** | None | N/A |  |  |  |  |  |
+| **Profile change confirmation** | None | N/A |  |  |  |  |  |
 | **User logout** |  |  |  |  |  |  |  |
 | **Syncing status shown** |  |  |  |  |  |  |  |
 | **File or image transfer confirmation** |  |  |  |  |  |  |  |
