@@ -8,7 +8,7 @@ One of the most typical sharing and receiving interactions on mobile devices men
 * iOS and Android both share common patterns in how a user can share files on their mobile devices such as photos, which is find and select photo -&gt; choose messaging app -&gt; add contact -&gt; add message -&gt; send
 * AirDrop is quite possibly the simplest sharing pattern with the fewest steps. This is facilitated with using devices of the some type \(Apple\) and already connected with each other. This means that each device has an ID already and the user clicks and it sends to them. It is also important to note, that the end user does not need to verify the sending of the photo meaning its seamless and just appears in the photos gallery.
 
-### [Android sharing](android.md)
+#### [Read more about sharing on Android](android.md)
 
-### [iOS sharing](ios.md)
+#### [Read more about sharing on iOS](ios.md)
 
