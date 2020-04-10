@@ -14,7 +14,7 @@ The ManyVerse onboarding flow is thorough and explanatory, albeit a lot of readi
 
 ![](../../.gitbook/assets/manyverse-account.png)
 
-When setting up the app for the first time the user encounters a normal pattern of setting up an account or restoring one.
+When setting up the app for the first time the user encounters a typical pattern of setting up an account or restoring one.
 
 When a new account is setup however, there is no indication or notification that the account has been setup, nor of the profile that has been setup for them.
 

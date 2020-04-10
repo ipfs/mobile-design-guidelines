@@ -20,6 +20,8 @@ The applications were investigated to learn what features and interface componen
 
 ## [Status](mobile-survey-review-1/status.md)
 
+* > Solid and user friendly blockchain app which enables relatively inexperienced users to get started with blockchain dApps
+* While the sign-on process is typical and smooth for a blockchain app, it might be confusing to those who just wish to use P2P without public and private keys and maintaining them
 * Onboarding processes intros should always have an option to login directly
 * Make the user aware if necessary that they will need to manage public and private encryption keys
 * Discoverability in finding other users and being made known to them should be done in app whenever possible
@@ -31,7 +33,8 @@ The applications were investigated to learn what features and interface componen
 ## [FrostWire](mobile-survey-review-1/frostwire.md)
 
 * Any UI personlisation should happen in hidden options, not during onboarding
-* Separate different types of file transfers visually but present together, for instance downloading and seeding 
+* Separate different types of file transfers visually but present together, for instance downloading and seeding
+* Useful for mobile downloads of music and video, but probably not for teams use and collaboration
 
 ## [uTorrent Mobile](mobile-survey-review-1/utorrent-mobile.md)
 
@@ -40,6 +43,8 @@ The applications were investigated to learn what features and interface componen
 * Only show granular details of details if helps the user
 
 ## [Haven](mobile-survey-review-1/haven.md)
+
+> Haven is a well designed and user-friendly app that does away with a lot of the upfront key and profile management often present in apps involving P2P purchases and cryptocurrency wallets.
 
 * Tell the user as quickly as possible what the application does and what it means for them
 * Don't provide to the user multiple, unrelated places where they can do the same actions
