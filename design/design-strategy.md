@@ -10,19 +10,19 @@ The guidelines need to be translated to design. The results and key findings fro
 
 ### Key Design Questions
 
-* How might IPFS Mobile work seamlessly with other mobile devices and the desktop?
-* How might IFPS Mobile be perceived as being a solid service users can trust that will be worth the time investment in learning and continuing to use?
-* How might IPFS Mobile provide even better file management than existing cloud services?
-* How might IPFS Mobile support media files?
+* How might IPFS on mobile work seamlessly with other mobile devices and the desktop?
+* How might IFPS on mobile be perceived as being a solid service users can trust that will be worth the time investment in learning and continuing to use?
+* How might IPFS on mobile provide even better file management than existing cloud services?
+* How might IPFS on mobile support media files?
 * How might users be supported in knowing if necessary, “where” a file might be and who can access it?
 * How might we design notifications to best support users in their awareness of syncing and sharing status?
 * Should we hide from users the fact that IPFS on mobile is a P2P network?
-* How might IPFS Mobile show through setup and interaction how it works and why it’s beneficial?
-* How might users be made aware that their use of IPFS Mobile will not create problems with battery life?
-* How might we show users offline functionality in their regular use in IPFS Mobile?
-* How might setting up and managing identity on IPFS Mobile be as easy as on cloud services?
-* How might privacy and its implications and advantages be explained well with IPFS Mobile?
-* Can onboarding to IPFS Mobile be made quick and educational?
+* How might IPFS on mobile show through setup and interaction how it works and why it’s beneficial?
+* How might users be made aware that their use of IPFS on mobile will not create problems with battery life?
+* How might we show users offline functionality in their regular use in IPFS on mobile?
+* How might setting up and managing identity on IPFS on mobile be as easy as on cloud services?
+* How might privacy and its implications and advantages be explained well with IPFS on mobile?
+* Can onboarding to IPFS on mobile be made quick and educational?
 
 ### Next Steps in Design
 
