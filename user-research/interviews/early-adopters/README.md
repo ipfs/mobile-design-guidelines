@@ -11,7 +11,7 @@
 ### Data and security
 
 * Single Sign-On is a good thing but how to manage it and be secure is not a simple thing
-* Torrent use in the past was widespread, but in general, P2P is not used anymore
+* Desktop torrent use in the past was widespread, but in general, P2P is not used anymore
 * File security and backup is paramount, but it is less important who has the final file
 * Cloud services like Google products are easy to use but not trusted
 * Identity management is difficult even for advanced users
