@@ -10,7 +10,7 @@ Interviews started with the Experts cohort. All of these people have or had dire
 
 The Early Adopters cohort all worked in fields adjacent to P2P, for instance in blockchain, decentralisation, research, data privacy and security, and provided particularly poignant views and perspective on developing technologies and how to bring them to users.
 
-[Read more](early-adopters-1/)
+[Read more](early-adopters/)
 
 ## Potential Users
 

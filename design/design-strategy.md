@@ -1,7 +1,3 @@
----
-description: Recommendations to provide direction to the following IPFS mobile design phase
----
-
 # Design Strategy
 
 The target in developing and growing the IPFS user base is mass adoption. This target, however, is continuously shifting and changing as the technology landscape changes month by month, year by year. There are substantial shifts and stable trends, namely mobile and mobile internet use, which continue to grow globally. IPFS if it is to succeed needs to be where people will use it and that is clearly on their smartphones.

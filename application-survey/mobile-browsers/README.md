@@ -8,7 +8,7 @@ In terms of mobile browser P2P support, the Cliqz browser has experimental suppo
 
 ‌To make IPFS most practical for mobile users, it might need to be a native app. Having an app on the phone though would mean that sharing via IPFS could be done from the browser as well as other apps via the native share menus in both iOS and Android.
 
-#### [Read more about sharing from Android Chrome](android.md)
+#### [Read more about sharing from Android Chrome](android-chrome.md)
 
-#### [Read more about sharing from iOS Safari](ios.md)
+#### [Read more about sharing from iOS Safari](ios-safari.md)
 
