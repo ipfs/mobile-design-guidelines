@@ -41,10 +41,10 @@ It is important to note that wi-fi and Bluetooth do not exclusively rely on a ce
 
 ## Privacy, security and identity
 
-One of the most significant concerns in many areas of computing and Internet use is that of privacy and its implications for identity on networks. Although users in many markets not focused on banking and transactions might not have the same level of concern for identity theft, hacking or having funds stolen, there is still an issue. Applications and data on IPFS mobile would diminish this as they are decentralised. For the user, this means that identities, keys and passwords not necessarily held on a central server able to be hacked, lost or stolen, are distributed or held privately. This distribution does force on the user additional responsibilities in configuration and storage and can lead to other issues such as losing unrecoverable keys.
+One of the most significant concerns in many areas of computing and Internet use is that of privacy and its implications for identity on networks. Although users in many markets not focused on banking and transactions might not have the same level of concern for identity theft, hacking or having funds stolen, there is still an issue. Applications and data on IPFS on mobile would diminish this as they are decentralised. For the user, this means that identities, keys and passwords not necessarily held on a central server able to be hacked, lost or stolen, are distributed or held privately. This distribution does force on the user additional responsibilities in configuration and storage and can lead to other issues such as losing unrecoverable keys.
 
 ### Questions
 
-* What is the landscape of apps and platforms to facilitate methods like federated identity to make IPFS for mobile a reality for most users?
+* What is the landscape of apps and platforms to facilitate methods like federated identity to make IPFS on mobile a reality for most users?
 * What is the user need for mobile identity and P2P?
 
