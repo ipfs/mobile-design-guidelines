@@ -6,7 +6,7 @@
 
 * Users might know of P2P, but don't want to be aware that they are using it
 * Many developers believe battery life and signal to be vital to end-users
-* P2P technologies such as IPFS have had a difficult time in user adoption
+* Developers have encountered difficulty in growing P2P user bases
 * Offline-first is a trend that is important but difficult to push forward
 * Identity is essential to both users and developers but is hard to explain and develop for
 
