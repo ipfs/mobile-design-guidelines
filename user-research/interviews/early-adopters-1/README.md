@@ -2,16 +2,20 @@
 
 ## Key findings
 
-* The user should know what is going on and notifications should be just enough and not overwhelming
-* Being able to manage files and structure is essential to the user and cloud services typically reflect this
-* Battery life is important but not as much as it used to be
-* Single Sign-On is a good thing but how to manage it securely is not a simple thing
-* P2P was used extensively in terms of torrents but generally not recently
-* Syncing via cloud services and sending messages notifications are seen as very important
-* File security and backup is paramount, but less so is who has the final file
-* Cloud services like Google products are easy to use but not to be trusted
+### Interface and Interaction
+
+* Notifications should not be overwhelming and let the user know what is going on
+* Managing files and structure is essential to the user
+* Syncing via cloud services and sending messages notifications are very important
+
+### Data and security
+
+* Single Sign-On is a good thing but how to manage it and be secure is not a simple thing
+* Torrent use in the past was widespread, but in general, P2P is not used anymore
+* File security and backup is paramount, but it is less important who has the final file
+* Cloud services like Google products are easy to use but not trusted
 * Identity management is difficult even for advanced users
-* Privacy and security is crucial but how to manage it is challenging, varied and often put off
+* Privacy and security is crucial but how to manage it is challenging, varied and often put off till later
 
 ## Interviews
 
