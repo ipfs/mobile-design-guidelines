@@ -1,12 +1,12 @@
 # Design Strategy
 
-The target in developing and growing the IPFS user base is mass adoption. This is shifting and changing as the technology landscape does, month by month, year by year. There are stable trends though, mobile internet use, which continue to grow globally. IPFS if it is to succeed needs to be where people will use it and that is on their smartphones.
+The target in developing and growing the IPFS user base is mass adoption. The user base is shifting and changing as the technology landscape does, month by month, year by year. There are stable trends though, mobile internet use, which continue to grow globally. IPFS if it is to succeed needs to be where people will use it and that is on their smartphones.
 
 IPFS is an interesting position to expand in user adoption. As IPFS matures and the community grows, we need to look at in earnest how to involve users. That includes designing how they use IPFS in their digital lives today and tomorrow. The P2P market is hidden, and most users of it, whether with torrents or AirDrop, may not know they’re even using it. Users worldwide are ready for a usable P2P network where their identities and files are safe from tracking and exploitation.
 
 The IPFS Mobile Design Guidelines are an essential step in making widespread adoption a reality. This will be a bridge between user needs discovered in research and building out IPFS. This will include design patterns, components and methods for an expanding community building better applications.
 
-‌ We need to translate the guidelines into design. To do that we destilled the findings from the research and synthesised them into the Key Design Questions that will address this.
+‌We need to translate the guidelines into design. To do that we distilled the findings from the research and synthesised them into the Key Design Questions that will address this.
 
 ### Key Design Questions
 

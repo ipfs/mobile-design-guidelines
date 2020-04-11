@@ -26,17 +26,17 @@ After a more in-depth review, we came upon many interesting approaches to severa
 * Onboarding process includes an option to login directly
 * Features discoverability in finding other users and being made known to them
 * Chat functionality does not attaching images and files, only stickers
-* Fetching and syncing of messages may require addtional interaction
+* Fetching and syncing of messages may require additional interaction
 * Users can post messages to community chats or boards
 
 ## FrostWire
 
-* UI personlisation presented during onboarding
+* UI personalisation presented during onboarding
 * Different types of file transfers such as downloading and seeing are presented together but visually differentiated
 
 ## uTorrent Mobile
 
-* Users extenal search engine on web page to find files to open in the app
+* Uses external search engine on web page to find files to open in the app
 * Additional functionality to watch live videos that are not torrents can not be downloaded
 * Global app navigation filters media file types instead of taking user to other screens or functionality
 * Details of torrents be selected or deselected for downloading and seeding
