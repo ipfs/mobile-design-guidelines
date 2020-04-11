@@ -13,7 +13,7 @@
 ### Data and sharing
 
 * Developers assume P2P is useful for users concerned about privacy and security
-* The user should have siloed data, not application silos
+* Developers believe users should have data silos and not have their data trapped in application silos
 * Dropbox and AirDrop are the gold standard for file sharing
 * Status and notifications are an area that requires much consideration
 
@@ -48,4 +48,3 @@ Software developer working on P2P and offline-first technologies for the public 
 Developer and researcher working on P2P technology
 
 [Read more](p15.md)
-
