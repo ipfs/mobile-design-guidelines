@@ -2,12 +2,18 @@
 
 ## Key findings
 
-* Various types of media, such as photos, videos and audio files are used extensively on mobile devices but how they are shared varies widely
-* P2P is understood as a concept relatively easily, but there is some difficulty in imagining actively using it
+### File and device management
+
+* There is a great deal of variety in the type of media file used as well as how to share it
+* P2P is easy to understand as a concept, but there is some difficulty in imagining using it
 * Battery and signal strength are significant, only generally when lacking
-* There is a general awareness of privacy, but its understanding and application are understood differently in different parts of the world
-* Cloud services are thought of as stable and dependable, but also questioned in terms of their intents and longevity
-* Identity and its management is understood to be crucial but generally thought of as challenging and a chore and many times ignored
+
+### Security
+
+* There are privacy concerns, but they vary from context to context 
+* Cloud services such as Dropbox and Google Drive are stable and  dependable
+* There are questions and concerns about the intent and longevity of cloud services
+* Identity management is critical but thought of as a challenging and a chore, so often ignored
 
 ## Interviews
 
@@ -46,4 +52,3 @@ Pharmacist \(UK\)
 Real estate \(Nigeria\)
 
 [Read more](p21.md)
-
