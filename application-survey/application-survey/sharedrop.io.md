@@ -6,7 +6,7 @@
 
 ## Sharing
 
-ShareDrop is a web application that also works on mobile. For testing purposes, it seemed to work in this case on Brave \(desktop/mobile\) and Safari \(mobile\). It had worked previously on Firefox \(desktop/mobile\), but that was not working for this particular testing.
+ShareDrop is a web application that also works on mobile web. For testing purposes, it was used on Brave \(desktop/mobile\) and Safari \(mobile\).
 
 ![](../../.gitbook/assets/sharedrop-1.png)
 
@@ -22,7 +22,7 @@ The connection verification between the two devices sharing is initiated by the 
 
 ![](../../.gitbook/assets/sharedrop-4.png)
 
-The connection is then verified. At that point the user clicks the avatar of the device they want to share with and then are given a system prompt \(in this case iOS\) to load the file to send.
+The connection is then verified. At that point the user clicks the avatar of the device they want to share with and then are given a system prompt to load the file to send.
 
 ![](../../.gitbook/assets/sharedrop-5.png)
 

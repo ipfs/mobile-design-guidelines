@@ -1,8 +1,6 @@
 # Considerations for Mobile
 
-There are couple of main areas of consideration when researching IPFS: mobile browsers, mobile battery life , mobile signal and data capabilities and privacy/identity. Throughout the research we layout all of these considerations as well as some questions to bear in mind as we explore IPFS for mobile.
-
-There are number of primary areas of consideration when researching IPFS: mobile browsers, mobile battery life, mobile signal and data capabilities and privacy/identity. Throughout the research, we lay out all of these considerations, as well as questions to bear in mind as we explore IPFS for mobile.‌
+There are couple of main areas of consideration when researching IPFS: mobile browsers, mobile battery life , mobile signal and data capabilities and privacy/identity. Throughout the research we layout these considerations as well as some questions to bear in mind as we explore IPFS for mobile.
 
 ## Mobile browsers‌
 
@@ -17,18 +15,18 @@ The mobile ecosystem has developed over the past decade to be app-centric. This 
 
 ## Battery life and power
 
-It is clear that battery life is an issue with mobile devices; however, how much of an issue is very relative. Often, battery power is monitored by users only when low, and many mobile users now carry additional battery packs when on the go or where otherwise not able to charge readily. Additionally, each new release of mobile handsets comes with extended and more robust battery life, decreasing the amount of importance this may have for users. This increase is also true across the spectrum of demographics and markets globally. Now in the emerging markets, Android handsets are as common as elsewhere and charging is less of an issue as it may have once been, save for extremely rural areas and conflict or disaster scenarios.
+It is clear that battery life is an issue with mobile devices; however, how much of an issue is very relative. Often, battery power is monitored by users only when low, and many mobile users now carry additional battery packs when on the go or where otherwise not able to charge readily. Additionally, each new rmobile device release comes with extended and more robust battery life, decreasing the amount of importance this may have for users. This increase is also true across the spectrum of demographics and markets globally. Now in the emerging markets, charging is less of an issue as it may have once been, save for extremely rural areas and conflict or disaster scenarios.
 
 While the development of P2P applications for mobile is nascent, development has already run into issues with battery life. Keeping a P2P node up on the phone can drain a mobile battery relatively quick. Therefore, battery life will increasingly be an issue with IPFS on mobile as it becomes more commonplace. Though essential to different degrees, power is still an important variable to consider that is mostly not an issue on the desktop or in IPFS desktop use cases.
 
 ### Questions
 
-* Can notifications be used more appropriately to batter life and particular use cases such as sharing files over IPFS on mobile?
+* Can notifications be used more appropriately to battery life and particular use cases such as sharing files over IPFS on mobile?
 * Is there a way for IPFS applications to throttle use depending on mobile user context?
 
 ## Connectivity, bandwidth and signal
 
-Connectivity on mobile is an apparent secondary requirement for IPFS mobile. However, the connectivity landscape is broad and varied, which is both an opportunity and significant consideration and development challenge for teams.
+Connectivity on mobile is an obvious secondary requirement for IPFS mobile. However, the connectivity landscape is broad and varied, which is both an opportunity and significant consideration and development challenge for teams.
 
 IPFS for mobile can take advantage of development in many types of connectivity. First is the data connection on just about every handset via 3G, 4G, LTE and now 5G. This mobile data connection allows handsets to maintain often good data speeds while the user is on the move. Second, almost all modern handsets have wi-fi capabilities. These connectivity options mean that connectivity switches depending on which mode, wi-fi or mobile data, is available. This switching also leads to the user problem of this not necessarily going to the connection that is faster or more stable. Often the user is then left to decide or guess and test and then switch connections manually. Third, IPFS for mobile also allows for Bluetooth connectivity, not commonly used as much anymore directly, but perhaps could be again in decentralised sharing use cases.
 

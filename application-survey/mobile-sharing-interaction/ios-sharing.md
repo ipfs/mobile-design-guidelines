@@ -12,9 +12,9 @@ Sharing through email is a standard default method of sharing as not all users m
 
 ![](../../.gitbook/assets/ios-sharing-message.png)
 
-If the user chooses to send from the Share menu the photo via a messaging platform like WhatsApp, they need first to select which user that they are already connected with they want to share with.
+If the user chooses to send from the Share menu the photo via a messaging platform like WhatsApp, they need first to select which connected user with which they want to share.
 
 ‌A WhatsApp photo share screen shows the photo that is being shared and the option to write a message in the text field and then the send button.
 
-‌Through the iOS default Messages app, the user sends the photo in the pattern of typeahead to choose a contact and then adding the message in one screen.
+‌Through the iOS default Messages app, the user sends the photo in the pattern of typeahead search to choose a contact and then adding the message in one screen.
 

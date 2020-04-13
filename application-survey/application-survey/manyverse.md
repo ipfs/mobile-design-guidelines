@@ -10,13 +10,13 @@
 
 ![](../../.gitbook/assets/manyverse-onboard.png)
 
-The ManyVerse onboarding flow is thorough and explanatory, albeit a lot of reading for a new user.
+The ManyVerse onboarding flow is thorough and explanatory, albeit a lot of information for a new user.
 
 ![](../../.gitbook/assets/manyverse-account.png)
 
 When setting up the app for the first time the user encounters a typical pattern of setting up an account or restoring one. When a new account is setup however, there is no indication or notification that the account has been setup, nor of the profile that has been setup for them.
 
-If the user would like to restore an account they need to enter in a 48 word recovery phrase. While this is no doubt highly secure, and despite essentially functioning like a password for the user, there could be other recovery options available.
+If the user would like to restore an account they need to enter in a 48 word recovery phrase.
 
 Once a profile is created or recovered, the user then is presented with their profile screen which is a list of messages \(in this case blank as it's a new user\).
 
@@ -38,11 +38,7 @@ The Connections screen has a multitude of options to connect to other ManyVerse 
 
 ![](../../.gitbook/assets/manyverse-screen-14.PNG)
 
-Messaging seems rather straight forward in ManyVerse, with a threaded view and Like and Comment buttons as well a colour scheme just like Facebook.
-
-![](../../.gitbook/assets/manyverse-screen-22.PNG)
-
-Upon clicking around the UI, I was somehow able to as a user to connect to myself on the Wifi network. At this point, I was also able to follow myself, which was unclear how this happened as well as what led me to this. There is a chance that while looking for pub servers on the Mac desktop Patchwork client that it somehow enabled this over the network, but for a novice absolutely nothing was clear. Also, there is an obvious usability problem in being able to connect to yourself, or having multiple identities running on the same app at the same time with no audit trail for the connections.
+Messaging is straight forward in ManyVerse, with a threaded view and Like and Comment buttons as well a colour scheme just like Facebook.
 
 ![](../../.gitbook/assets/manyverse-screen-23.PNG)
 

@@ -4,7 +4,7 @@
 
 ### Interface and Interaction
 
-* Notifications should not be overwhelming and let the user know what is going on
+* Notifications should not be overwhelming when letting the user know what is going on
 * Managing files and structure is essential to the user
 * Syncing via cloud services and sending messages notifications are very important
 

@@ -24,11 +24,11 @@
 
 ![](../../.gitbook/assets/status-onboard.png)
 
-As most apps, primarily messaging and transactional apps involving accounts, Status has a three-screen onboarding intro explaining to the user in a concise and uncomplicated manner what they will be doing in signing up and using the app.
+As most messaging and transactional apps involving accounts, Status has a three-screen onboarding intro explaining to the user in a concise and uncomplicated manner what they will be doing in signing up and using the app.
 
 ![](../../.gitbook/assets/status-screen-04.PNG)
 
-As this uses blockchain technologies, there are sets of keys, public and private involved, meaning the user needs to be then aware of this to access their account but could lead to confusion with novice users unused to this.
+As this uses blockchain technologies, there keys meaning the user needs to be then aware of this to access their account.
 
 ![](../../.gitbook/assets/status-screen-05.PNG)
 
@@ -36,7 +36,7 @@ The user needs to choose a chat name which it will default to. This can be chang
 
 ![](../../.gitbook/assets/status-recover.png)
 
-Recovering keys is a long-winded process for most non-blockchain users where they need to enter in a seed phrase which is a string of 12 or more words. Again, not very usual or useful for the uninitiated, but a typical pattern in blockchain \(d\)apps.
+Recovering keys is a long process for most non-blockchain users where they need to enter in a seed phrase which is a string of 12 or more words.
 
 ![](../../.gitbook/assets/status-screen-10.PNG)
 

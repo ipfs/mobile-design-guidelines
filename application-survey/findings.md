@@ -1,8 +1,8 @@
 # Findings
 
-The apps featured are divided into three main groups all using P2P, which include file sharing, messaging and group posting. Many of the apps we looked at have two of these categories, typically messaging and group posting. Many of these approaches to their feature sets reflect this by combining methods and interactions.
+The apps featured are divided into three main groups all using P2P, which include file sharing, messaging and group posting. Many of the apps we looked at fit into two or more of these categories, typically messaging and group posting and their feature sets reflect this by combining methods and interactions.
 
-After a more in-depth review, we came upon many interesting approaches to several core areas that they all share, such as identity and it's management, connection notification, confirmations and how they approach onboarding and user education.
+After a more in-depth review, we came upon many approaches to core areas that they all share, such as identity and it's management, connection notification, confirmations and how they approach onboarding and user education.
 
 ## ManyVerse
 

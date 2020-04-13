@@ -48,5 +48,5 @@ The Social screen shows feeds of other Haven users that the user follows or the 
 
 ![](../../.gitbook/assets/haven-identity.png)
 
-In the profile, the user can chat without any invites or acceptances on the other user's part. Looking at the user's profile, they can see that they are still anonymous and have several options and settings, as well as the ability to track purchases and sales and their cryptocurrency wallet. The Profile screen also provides the opportunity to do much of what is done in the Haven store. They can also create a more personal and less anonymous profile. Oddly, the user can create listings, posts and shares from the Profile screen just as they can from the Shop and Chat screens.
+In the profile, the user can chat without any invites or acceptances on the other user's part. Looking at the user's profile, they can see that they are still anonymous and have several options and settings, as well as the ability to track purchases and sales and their cryptocurrency wallet. The Profile screen also provides the opportunity to do much of what is done in the Haven store. They can also create a more personal and less anonymous profile. The user can also create listings, posts and shares from the Profile screen just as they can from the Shop and Chat screens.
 

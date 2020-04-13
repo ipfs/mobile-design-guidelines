@@ -19,5 +19,5 @@ We investigated the applications to learn what features and interface components
 | **User discoverability** | No | Yes | Yes | N/A | N/A | Yes | N/A |
 | **Chat attachments** | Images | N/A | Only in-app stickers | N/A | N/A | No | N/A |
 | **File search** | No | N/A | Browser support dependent | In-app | Browser support dependent | N/A | N/A |
-| **Mediaplayer** | N/A | Browser support dependent | Browser support dependent | Yes | Yes | N/A | Browser support dependent |
+| **Media player** | N/A | Browser support dependent | Browser support dependent | Yes | Yes | N/A | Browser support dependent |
 

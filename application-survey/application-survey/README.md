@@ -2,7 +2,7 @@
 
 We have chosen and tested a variety of available, meaning publicly released software available on app stores or through mobile web, apps to understand previous approaches to designing and developing mobile P2P applications. We have not found that many stable and publicly released mobile applications in the P2P space as most development has concentrated on the desktop. The apps we found were from iOS and Android app store searches as well as from referrals to various P2P platforms in development.
 
-The applications in the Mobile Application Survey all share P2P as the transport layer but vary drastically in feature sets, allowing us to see a broad spectrum of current use cases. This will help us help others design better and more useful apps, choosing the right features, and how to implement them in an interface that works for users. What follows are summaries of how the apps work for users to be used in comparing feature sets and for findings to inform further design.
+The applications in the Mobile Application Survey all share P2P as the transport layer but vary drastically in feature sets, allowing us to see a broad spectrum of current use cases. This will help us help others design better and more useful apps, choosing the right features, and how to implement them in an interface that works for users. What follows are summaries of how the apps work for users to be used in comparing feature sets and findings to inform further design.
 
 ## ManyVerse
 

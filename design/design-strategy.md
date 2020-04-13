@@ -16,23 +16,23 @@ The IPFS Mobile Design Guidelines are an essential step in making widespread ado
 * How might IPFS on mobile support viewing and playing of media files?
 * How might users be supported in knowing if necessary, where a file might be and who can access it?
 * How might we design notifications to best support users in their awareness of connection, syncing and sharing status?
-* How might we design around users' understanding that IPFS on mobile would involve them using a P2P network?
+* How might we design around users' understanding or lack thereof that IPFS on mobile would involve them using a P2P network?
 * How might we make onboarding IPFS on mobile as fast as it is informational?
 * How might users be made aware that their use of IPFS on mobile will not create problems with battery life?
 * How might we design offline functionality in regular use on IPFS on mobile?
-* How might setting up and managing identity on IPFS on mobile be as easy as on cloud services while not having questionable security?
+* How might setting up and managing identity on IPFS on mobile be as easy as on cloud services while not posing security questions for users?
 
 ### Next Steps in Design
 
-The design guidelines will provide the necessary components and interaction and interface design frameworks to the IPFS community to grow. This will unify thinking and best practices to make the broader efforts of a safer, faster, more open Internet a reality for users. It is only through consistent and collaborative efforts will the community and the user base grow, and thus IPFS succeed. We need to look towards an iterative, staged approach in moving towards establishing IPFS as a viable, usable and sustainable ecosystem.
+The design guidelines will provide the necessary components and interaction and interface design frameworks for the IPFS community to grow. This will unify thinking and best practices to make the broader efforts of a safer, faster, more open Internet a reality for users. It is only through consistent and collaborative efforts will the community and the user base grow and IPFS to succeed. We need to look towards an iterative, staged approach in moving towards establishing IPFS as a viable, usable and sustainable ecosystem.
 
 ### Programme of Work
 
 * Workshop with Protocol Labs to help translate the research into design and prioritise design efforts
 * Interaction and user experience design work to solve the researched issues, mapping out user flows, design patterns and use cases
-* Designs including recommendations, iconographic, interaction and screen treatments for IPFS in mobile browsers and mobile OS’s in graphic format in the final report as well as Sketch and PDF assets in the repository
-* User experience flows in graphic format in the final report as well as Sketch and PDF assets in the repository
-* Design guidelines and component design to inform and help further development efforts in graphic format in the final report as well as Sketch and PDF assets in the repository
+* Designs including recommendations, iconographic, interaction and screen treatments for IPFS in mobile browsers and mobile OS’s in graphic format in the final report as well as vector and PDF assets in the repository
+* User experience flows in graphic format in the final report as well as vector and PDF assets in the repository
+* Design guidelines and component design to inform and help further development efforts in graphic format in the final report as well as vector and PDF assets in the repository
 * User interface, component and elements design
 * Interaction design and production of user flows and use cases
 * Design guidelines creation and documentation

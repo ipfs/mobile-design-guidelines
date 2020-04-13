@@ -14,5 +14,5 @@ Research interviews were split between three cohorts, Experts, Early Adopters an
 
 Early Adopters were the second cohort and were interviewed to understand in which directions the adoption of IPFS on mobile could or should go. Working in related fields such as blockchain, decentralisation, research, data privacy and security, they were uniquely positioned to give educated opinions and foresight in how to translate the knowledge and developments of experts into what might work for users.
 
-Finally, we spoke with Potential Users, mobile phone users recruited for having a smart phone, P2P and cloud services knowledge or experience, and spread between varying geographies and demographics. These future users will help guide the design phase of the Mobile Design Guidelines and the design of features, patterns and standards to enable P2P and IPFS to gain widespread acceptance and adoption.
+Finally, we spoke with Potential Users, mobile phone users recruited for having a smart phone, P2P and cloud services knowledge or experience, and spread between varying geographies and demographics. These users will help guide the design phase of the Mobile Design Guidelines and the design of features, patterns and standards to enable P2P and IPFS to gain widespread acceptance and adoption.
 
