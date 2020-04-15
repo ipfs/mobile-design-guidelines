@@ -43,6 +43,6 @@ One of the most significant concerns in many areas of computing and Internet use
 
 ### Questions
 
-* What is the landscape of apps and platforms to facilitate methods like federated identity to make IPFS on mobile a reality for most users?
+* What is the landscape of apps and platforms to facilitate methods with identity to make IPFS on mobile a reality for most users?
 * What is the user need for mobile identity and P2P?
 
