@@ -1,5 +1,14 @@
 # Design Workshop
 
+To kick-off the design of the IPFS Mobile Guidelines, we re-engaged with IPFS community members who participated in the research as experts in a workshop. The workshop was designed to take [the findings from the research](../user-research/findings.md) and translate them into areas of design focus.
+
+One of the problems with this translation of findings to design is how to  frame the design. In order to best serve IPFS adoption, we chose to concentrate on users and how to understand their needs. The workshop followed the following foramt
+
+1. Go through research findings and prioritise
+2. Develop user personas and rank
+3. Link users to problems
+4. Finding the user needs
+
 ### Research findings and prioritisation
 
 ![](https://raw.githubusercontent.com/ipfs/mobile-design-guidelines/master/public/MobileDesignGuidelines-workshop-1.jpg)
