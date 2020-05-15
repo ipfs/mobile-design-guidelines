@@ -62,4 +62,5 @@
 * [Design Strategy](design/design-strategy.md)
 * [Design Workshop](design/design-workshop.md)
 * [Principles](design/principles.md)
+* [Templates](design/templates.md)
 
