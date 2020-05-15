@@ -62,8 +62,6 @@
 * [Design Strategy](design/design-strategy.md)
 * [Design Workshop](design/design-workshop.md)
 * [Principles](design/principles/README.md)
-  * [Make IPFS invisible most of the time](design/principles/make-ipfs-invisible-most-of-the-time/README.md)
-    * [Highlight you're using IPFS but not overtly](design/principles/make-ipfs-invisible-most-of-the-time/highlight-youre-using-ipfs-but-not-overtly.md)
-    * [Don't show too much about the underlying technology during onboarding](design/principles/make-ipfs-invisible-most-of-the-time/dont-show-too-much-about-the-underlying-technology-during-onboarding.md)
+  * [Make IPFS invisible most of the time](design/principles/make-ipfs-invisible-most-of-the-time.md)
 * [Templates](design/templates.md)
 
