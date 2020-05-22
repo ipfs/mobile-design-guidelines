@@ -61,7 +61,4 @@
 
 * [Design Strategy](design/design-strategy.md)
 * [Design Workshop](design/design-workshop.md)
-* [Principles](design/principles/README.md)
-  * [Make IPFS invisible most of the time](design/principles/make-ipfs-invisible-most-of-the-time.md)
-* [Scenarios](design/templates.md)
 
