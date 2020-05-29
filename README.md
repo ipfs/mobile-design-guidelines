@@ -6,7 +6,10 @@ This growth at the furthest edge of the network requires solutions at the edge. 
 
 This programme of work will be the first of two phases, the first for research and the second for design. Both will include investigation and exploration of more extensive mobile sharing and receiving workflows of iOS and Android mobile operating systems. These guidelines will provide a foundational effort towards IPFS on mobile platforms, informing both IPFS feature prioritisation as well as ecosystem and community building on the protocol.
 
+### Credits
 
+Free stuff used in this repo:
 
+**Icons:** [Font Awesome](https://fontawesome.com/)
 
-
+**Avatars:** [21 Stylish User Avatars Sketch Resource](https://www.sketchappsources.com/free-source/3635-stylish-user-avatars-sketch-freebie-resource.html)
