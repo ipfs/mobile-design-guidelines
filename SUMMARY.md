@@ -61,4 +61,12 @@
 
 * [Design Strategy](design/design-strategy.md)
 * [Design Workshop](design/design-workshop.md)
+* [Principles](design/principles/README.md)
+  * [Respect the device](design/principles/respect-the-device.md)
+  * [Explain, don't overwhelm](design/principles/explain-dont-overwhelm.md)
+  * [Make privacy work for the user](design/principles/make-privacy-work-for-the-user.md)
+  * [Give control over data](design/principles/give-control-over-data.md)
+  * [Be seamless](design/principles/be-seamless.md)
+* [Scenarios](design/scenarios.md)
+* [Findings](design/findings.md)
 
