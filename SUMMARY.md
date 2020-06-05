@@ -67,6 +67,11 @@
   * [Make privacy work for the user](design/principles/make-privacy-work-for-the-user.md)
   * [Give control over data](design/principles/give-control-over-data.md)
   * [Be seamless](design/principles/be-seamless.md)
-* [Scenarios](design/scenarios.md)
+* [Scenarios](design/scenarios/README.md)
+  * [The user onboards confidently with minimal technical knowledge](design/scenarios/the-user-onboards-confidently-with-minimal-technical-knowledge.md)
+  * [The user shares a file through another app](design/scenarios/the-user-shares-a-file-through-another-app.md)
+  * [Large file sent to user](design/scenarios/large-file-sent-to-user.md)
+  * [User plays a shared media file without wifi or mobile network](design/scenarios/user-plays-a-shared-media-file-without-wifi-or-mobile-network.md)
+  * [A user manages their chat identity](design/scenarios/a-user-manages-their-chat-identity.md)
 * [Findings](design/findings.md)
 
