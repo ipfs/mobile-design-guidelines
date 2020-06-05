@@ -2,6 +2,19 @@
 
 To kick-off the design of the IPFS Mobile Guidelines, we re-engaged with IPFS development community members who participated in the research as experts in a workshop. The workshop was designed to take [the findings from the research](../user-research/findings.md) and translate them into areas of design focus.
 
+### Key takeaways
+
+1. Issues often cross over for many different user archetypes but how important they may be to that user is not the same
+2. Security and privacy is important, but requires a lot of nuance to make it not overwhelming for the user
+3. Simplicity is required for any design, not just in interaction but in verification and notifications as well
+4. Versioning is what makes cloud services indispensable and should be looked at
+5. Visibility to other peers and the network is important, but so is how it can be controlled
+6. Discoverability is often overlooked but needs to have tight controls
+7. Managing contacts or frequent shares would need to handled up front to the user
+8. Working inside of alongside other apps is very important
+9. There is a lot of work as well as opportunity with IPFS as potentially being a brand of dependability in file transfer and hosting alongside being a P2P technology to users
+10. Viewing or playing the file being or having downloaded should happen where it is being downloaded
+
 One of the problems with this translation of findings to design is how to  frame the design. In order to best serve IPFS adoption, we chose to concentrate on users and how to understand their needs. To get to those needs we went through the following activities:
 
 1. Go through research findings and prioritise
@@ -32,21 +45,6 @@ To continue establishing possible end users and what their user needs would be, 
 ![](https://raw.githubusercontent.com/ipfs/mobile-design-guidelines/master/public/MobileDesignGuidelines-workshop-4.jpg)
 
 Finally, the workshop group was asked to come up with as many user needs to the user personas and their issues. This was the final part in the prototype user story construction and had the group coming up with as quick as they can as many needs as they could. Thus we were left with a number of ways to frame user needs, both to overall issues and user archetypes. Many fascinating things came out of this final exercise as well, for instance the notion of safety in terms of legality and privacy. This also pointed to the notion of trust. For instance, if I don’t know who is sharing something with me, will I trust it less? There were a number of other prevalent themes that were teased out as well in terms of file, download and transfer management as well.
-
-### Key takeaways
-
-1. Issues often cross over for many different user archetypes but how important they may be to that user is not the same
-2. Security and privacy is important, but requires a lot of nuance to make it not overwhelming for the user
-3. Simplicity is required for any design, not just in interaction but in verification and notifications as well
-4. Versioning is what makes cloud services indispensable and should be looked at
-5. Visibility to other peers and the network is important, but so is how it can be controlled
-6. Discoverability is often overlooked but needs to have tight controls
-7. Managing contacts or frequent shares would need to handled up front to the user
-8. Working inside of alongside other apps is very important
-9. There is a lot of work as well as opportunity with IPFS as potentially being a brand of dependability in file transfer and hosting alongside being a P2P technology to users
-10. Viewing or playing the file being or having downloaded should happen where it is being downloaded
-
-
 
 The workshop boards are available in the repo:  
 [MobileDesignGuidelines-workshop.pdf](https://github.com/ipfs/mobile-design-guidelines/blob/master/public/MobileDesignGuidelines-workshop.pdf)
