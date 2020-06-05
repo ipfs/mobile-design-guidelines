@@ -1,7 +1,5 @@
 # Design Workshop
 
-
-
 ## Key takeaways
 
 1. Issues often cross over for many different user archetypes but how important they may be to that user is not the same
