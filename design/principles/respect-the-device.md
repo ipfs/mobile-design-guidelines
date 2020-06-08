@@ -1,5 +1,7 @@
 # Respect the device
 
+## Respect the device
+
 Apps and services for mobile aren't reformatted desktop apps. They need to take into account a host of different issues, from battery life to signal.
 
 ### What we learned in the research
