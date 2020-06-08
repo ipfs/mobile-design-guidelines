@@ -74,4 +74,5 @@
   * [User plays a shared media file without wifi or mobile network](design/scenarios/user-plays-a-shared-media-file-without-wifi-or-mobile-network.md)
   * [A user manages their chat identity](design/scenarios/a-user-manages-their-chat-identity.md)
 * [Findings](design/findings.md)
+* [Credits](design/credits.md)
 
