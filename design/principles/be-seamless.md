@@ -2,7 +2,7 @@
 
 The user shouldn't necessarily know how they're connected, whether through wifi, bluetooth or otherwise. They should just feel confident that data is getting sent and received, not how.
 
-### What we learned in the research
+## What we learned in the research
 
 * P2P is understood by users as a concept relatively easily
 * Users are not concerned are not with the type of connection but that it is stable, fast and not expensive
@@ -10,9 +10,9 @@ The user shouldn't necessarily know how they're connected, whether through wifi,
 * Cloud services like Dropbox and AirDrop are considered very easy to use and intuitive for file sharing by many users
 * Users might know of P2P but don't feel they need to be aware they are using it
 
-### Patterns
+## Patterns
 
-#### Don't require the user to manage their connections
+### Don't require the user to manage their connections
 
 When a user wants to transfer data on mobile, they are doing so because they need to do so then and there. If the app requires they manually change the connection to do so, they will be less likely to use the app.
 
@@ -26,7 +26,7 @@ When a user wants to transfer data on mobile, they are doing so because they nee
 
 _Ideally, your app or transfer method should be availble at the OS level, for instance in the menu that appears when sharing a file_
 
-#### Have as few settings as possible
+### Have as few settings as possible
 
 Apps on IPFS should be simple and be able to work for users straight away when opening the app.
 

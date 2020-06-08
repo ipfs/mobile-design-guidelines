@@ -2,12 +2,12 @@
 
 One of the largest issues with transferring files and messages is discoverability and security. A large part of security is the ability to control who and what can access files.
 
-### What we found out in research
+## What we found out in research
 
 * File transfer not only requires [managing transfers](application-survey/application-survey/frostwire) but also files you already have
 * File links should be [shown and able to be copied and if possible shown as QR codes](application-survey/application-survey/sharedrop.io)
 
-### Design considerations
+## Design considerations
 
 * Allow the user to be able to manage and delete files
 * Show where the file is being stored and where it can be deleted
@@ -15,13 +15,13 @@ One of the largest issues with transferring files and messages is discoverabilit
 * Show confirmations to unreversible actions like deleting
 * Make copying and sending CIDs as simple as possible for the user
 
-### Who is the user and what are their needs
+## Who is the user and what are their needs
 
 User working with large files and often having to work on-site with limited internet access
 
-### Putting it into practice
+## Putting it into practice
 
-#### The user receives notification another App X user is sharing a file with them
+### The user receives notification another App X user is sharing a file with them
 
 The user receives notification they have received a message with a link to an image on App X. They recognise "JoeS" as their co-worker who sends them files regularly.
 
@@ -33,7 +33,7 @@ They then open the message link and App X opens begins downloading the shared im
 >
 > Allow the user to be able to manage, delete and show where files are stored
 
-#### Image downloaded in App X
+### Image downloaded in App X
 
 The image is completely downloaded, the progress bar finishes and the user can then open it.
 
@@ -43,7 +43,7 @@ The user also has the option to see the history of that file. They can get to th
 
 ![](https://raw.githubusercontent.com/ipfs/mobile-design-guidelines/master/.gitbook/assets/SentFile-2.png)
 
-#### The user deletes the file
+### The user deletes the file
 
 The user wants to delete the file from App X after viewing the file. They open the options menu `...` and tap `Delete from App X` and a confirmation modal appears.
 

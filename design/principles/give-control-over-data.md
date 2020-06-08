@@ -2,7 +2,7 @@
 
 Mobile apps and services should help manage files. They can do this by respecting the needs users may have with availability, discoverability and persistence. This also includes helping them know they have a full and complete copy, even offline, of the files.
 
-### What we learned in the research
+## What we learned in the research
 
 * Many users think the final location of the file isn't that important as long as they have a copy
 * Organisation and management of files is very important while sharing
@@ -11,9 +11,9 @@ Mobile apps and services should help manage files. They can do this by respectin
 * There is generally the lack of ability to manually push sync
 * Some users feel versioning makes some cloud services such as Dropbox indispensable
 
-### Patterns
+## Patterns
 
-#### Assure that the files are safe
+### Assure that the files are safe
 
 Users are more concerned with their files being safe rather than where they are. Safe in most cases means that files are accessible and there are controls on who can get to them.
 
@@ -26,7 +26,7 @@ Users are more concerned with their files being safe rather than where they are.
 
 _Users should have easily accessible file information and controls, for instance through individual options_
 
-#### Be clear about who has access to what
+### Be clear about who has access to what
 
 A great deal of the concern about user's data is about who has access to what. When managing access on particular files and groups of files, the user needs to sure what is going on so they can understand the risk better.
 
@@ -40,7 +40,7 @@ A great deal of the concern about user's data is about who has access to what. W
 
 _Files should indicate what their sharing status is_
 
-#### Give the option to use classic file and folder organisation
+### Give the option to use classic file and folder organisation
 
 While innovative organisational schemes for file management are appreciated by many, for many more they are confusing.
 
