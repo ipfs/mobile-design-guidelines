@@ -1,10 +1,8 @@
 # Respect the device
 
-## Respect the device
-
 Apps and services for mobile aren't reformatted desktop apps. They need to take into account a host of different issues, from battery life to signal.
 
-### What we learned in the research
+## What we learned in the research
 
 * Many developers believe battery life and signal to be vital to end-users
 * How vital batter is depends on the type of user and their context
@@ -12,9 +10,9 @@ Apps and services for mobile aren't reformatted desktop apps. They need to take 
 * Battery is less and less of an issue as they get better and external battery packs become more popular
 * Offline-first design is a growing trend that requires special sensitivity to the user knowing when they are on and off line
 
-### Patterns
+## Patterns
 
-#### Notify the user something might not finish because of the battery level
+### Notify the user something might not finish because of the battery level
 
 Battery life is an obvious and constant issue with all mobile users in any demographic. Battery life is less of an issue as smartphone batteries improve. But many user actions such as video and downloads can affect this.
 
@@ -33,7 +31,7 @@ Assume the user will at some point have issues with these.
 
 _Notify the user when things might not work_
 
-#### Show that actions like file sharing might take a long time or not work at all if there is not much signal
+### Show that actions like file sharing might take a long time or not work at all if there is not much signal
 
 Signal is often thought of as not an issue until it's not there and apps built on IPFS can support this. It can provide and indicate offline capabilities as well as support data persistence. Apps that use IPFS should provide reassurance for the user for what is going on and what is possible. Thus, signal and mobile bandwidth should address for the specific context.
 
@@ -49,7 +47,7 @@ It should be noted that P2P technologies often try to create as many connections
 
 _It is good to tell users they are offline so they will be aware of how the app will continue to work in a different manner_
 
-#### If the user is on a data connection think about how to suggest time and cost involved
+### If the user is on a data connection think about how to suggest time and cost involved
 
 When a user wishes to transfer a large amount of files or data, they can't always rely on wifi. This is depsite being pervasive in many contexts.
 
