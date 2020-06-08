@@ -8,7 +8,7 @@ The IPFS Mobile Design Guidelines are an essential step in making widespread ado
 
 ‌We needed to translate the guidelines into design. To do that we distilled the findings from the research and synthesised them into the Key Design Questions to begin looking at the design.
 
-### Key Design Questions
+## Key Design Questions
 
 * How might IPFS on mobile work seamlessly in sharing files with other mobile devices and the desktop?
 * How might IFPS on mobile be perceived as being a solid service users can trust? How might it be worth the investment in learning to use? Continuing to use?
@@ -22,7 +22,7 @@ The IPFS Mobile Design Guidelines are an essential step in making widespread ado
 * How might we design offline functionality in regular use on IPFS on mobile?
 * How might setting up and managing identity on IPFS on mobile be as easy as on cloud services while not posing security questions for users?
 
-### Design in practice
+## Design in practice
 
 The design guidelines provide the necessary components and interaction and interface design frameworks for the IPFS community to grow. This is to unify thinking and best practices to make the broader efforts of a safer, faster, more open Internet a reality for users. It is only through consistent and collaborative efforts will the community and the user base grow and IPFS to succeed. We need to look towards an iterative, staged approach in moving towards establishing IPFS as a viable, usable and sustainable ecosystem.
 
