@@ -4,7 +4,7 @@ The focus of the development of IPFS to date has been primarily on desktop and s
 
 This growth at the furthest edge of the network requires solutions at the edge. While the IPFS network continues to grow on mobile \(for instance, IPFS now has default support on Opera for Android\), more research is needed to realise the full value of the network. IPFS should be directly available and accessible to end-users on all their devices - and the design of IPFS integrations should make this clear and easy to use. To create that level of clarity, developers need clear guidelines that align with user needs while unlocking all the power of the decentralised mobile web.
 
-This programme of work will be the first of two phases, the first for research and the second for design. Both will include investigation and exploration of more extensive mobile sharing and receiving workflows of iOS and Android mobile operating systems. These guidelines will provide a foundational effort towards IPFS on mobile platforms, informing both IPFS feature prioritisation as well as ecosystem and community building on the protocol.
+These guidelines comprise of two main parts, research and design. The research consists of context setting, application surveys and user research. The design covers strategy, defining workshop, design principles and scenarios showing examples of the design of IPFS for mobile apps in practice. Both include investigation and exploration of more extensive mobile sharing and receiving workflows of iOS and Android mobile operating systems. These guidelines provide a foundational effort towards IPFS on mobile platforms, informing both IPFS feature prioritisation as well as ecosystem and community building on the protocol.
 
 ## Credits
 

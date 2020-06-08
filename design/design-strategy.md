@@ -6,7 +6,7 @@ IPFS is an interesting position to expand in user adoption. As IPFS matures and 
 
 The IPFS Mobile Design Guidelines are an essential step in making widespread adoption a reality. This will be a bridge between user needs discovered in research and building out IPFS. This will include design patterns, components and methods for an expanding community building better applications.
 
-‌We need to translate the guidelines into design. To do that we distilled the findings from the research and synthesised them into the Key Design Questions that will address this.
+‌We needed to translate the guidelines into design. To do that we distilled the findings from the research and synthesised them into the Key Design Questions to begin looking at the design.
 
 ### Key Design Questions
 
@@ -22,23 +22,9 @@ The IPFS Mobile Design Guidelines are an essential step in making widespread ado
 * How might we design offline functionality in regular use on IPFS on mobile?
 * How might setting up and managing identity on IPFS on mobile be as easy as on cloud services while not posing security questions for users?
 
-### Next Steps in Design
+### Design in practice
 
-The design guidelines will provide the necessary components and interaction and interface design frameworks for the IPFS community to grow. This will unify thinking and best practices to make the broader efforts of a safer, faster, more open Internet a reality for users. It is only through consistent and collaborative efforts will the community and the user base grow and IPFS to succeed. We need to look towards an iterative, staged approach in moving towards establishing IPFS as a viable, usable and sustainable ecosystem.
+The design guidelines provide the necessary components and interaction and interface design frameworks for the IPFS community to grow. This is to unify thinking and best practices to make the broader efforts of a safer, faster, more open Internet a reality for users. It is only through consistent and collaborative efforts will the community and the user base grow and IPFS to succeed. We need to look towards an iterative, staged approach in moving towards establishing IPFS as a viable, usable and sustainable ecosystem.
 
-### Programme of Work
-
-* Workshop with Protocol Labs to help translate the research into design and prioritise design efforts
-* Interaction and user experience design work to solve the researched issues, mapping out user flows, design patterns and use cases
-* Designs including recommendations, iconographic, interaction and screen treatments for IPFS in mobile browsers and mobile OS’s in graphic format in the final report as well as vector and PDF assets in the repository
-* User experience flows in graphic format in the final report as well as vector and PDF assets in the repository
-* Design guidelines and component design to inform and help further development efforts in graphic format in the final report as well as vector and PDF assets in the repository
-* User interface, component and elements design
-* Interaction design and production of user flows and use cases
-* Design guidelines creation and documentation
-* Documentation of surveys and collection of research and design materials
-* Guidelines analysis
-* Compilation of assets and writing of documentation with development recommendations
-
-The guidelines will serve as a constant and living guide to the evolving problem space. This will give the IPFS community something to help remember who and what they are designing and building for. These will be guides, not instruction. They will give enough flexible direction to support different IPFS implementations working towards the same usable, growing and sustainable ecosystem.
+The guidelines will serve as a constant and living guide to the evolving problem space. This will give the IPFS community something to help remember who and what they are designing and building for. These are guides, not instructions. They give enough flexible direction to support different IPFS implementations working towards the same usable, growing and sustainable ecosystem.
 
