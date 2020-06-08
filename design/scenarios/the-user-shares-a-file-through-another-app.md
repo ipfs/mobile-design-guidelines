@@ -14,7 +14,7 @@ What users do not need is another app or service to do things they are already d
 * Prioritise frequent contacts
 * Show a confirmation with CID, link or hash of the file
 
-## Who is the user and what are their needs
+### Who is the user and what are their needs
 
 Student in early 20's who wants to send files directly between smartphones not necessarily on the same operating system without having to upload it somewhere
 

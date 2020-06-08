@@ -1,7 +1,5 @@
 # A user manages their chat identity
 
-## A user manages their chat identity
-
 Messaging requires a network of users. Getting started messaging with other people requires knowing people connected to one another. Second to this is discovering and safely connecting to them.
 
 ## What we found out in research
@@ -16,7 +14,7 @@ Messaging requires a network of users. Getting started messaging with other peop
 * Allow the user to control confirmations of new contacts and chats
 * Give the user easier to recover profile key recovery options
 
-## Who is the user and what are their needs
+### Who is the user and what are their needs
 
 Messaging app user interested in using P2P chat because its more secure and can work without Internet access. There is also concern apps like this will be hard to use.
 

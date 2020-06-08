@@ -15,7 +15,7 @@ One of the largest issues with transferring files and messages is discoverabilit
 * Show confirmations to unreversible actions like deleting
 * Make copying and sending CIDs as simple as possible for the user
 
-## Who is the user and what are their needs
+### Who is the user and what are their needs
 
 User working with large files and often having to work on-site with limited internet access
 

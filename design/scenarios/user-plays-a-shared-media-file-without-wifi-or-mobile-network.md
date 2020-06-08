@@ -15,7 +15,7 @@ Unlike cloud services like Dropbox and Google Drive, IPFS doesn't need centralis
 * Don't assume the user knows what to do with a QR code
 * If allowing the user to publish or un-publish, notify them of the conditions, such as it expiring after a certain time
 
-## Who is the user and what are their needs
+### Who is the user and what are their needs
 
 A person who commutes long distances to and from work who often loses signal \(4G, LTE, etc.\) when on the train. They're interested in being able to have everything work if connected or not by default.
 

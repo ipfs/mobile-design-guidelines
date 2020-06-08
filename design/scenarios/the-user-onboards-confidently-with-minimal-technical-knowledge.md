@@ -14,7 +14,7 @@ When a user gets started with an app or service using IPFS, they shouldn't have 
 * Always show the user what they are signing up for when taking shortcuts 
 * Put settings modifications last and only steer experts in that direction
 
-## Who is the user and what are their needs
+### Who is the user and what are their needs
 
 NGO worker concerned with censorship and privacy concerns who needs to send files to people
 
