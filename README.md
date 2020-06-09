@@ -6,19 +6,27 @@ This growth at the furthest edge of the network requires solutions at the edge. 
 
 These guidelines comprise of two main parts, research and design. The research consists of [context setting](context/considerations-for-mobile.md), [application surveys](application-survey/application-survey/) and [user research](user-research/interviews/). The design covers [strategy](design/design-strategy.md), defining [workshop](design/design-workshop.md), design [principles](design/principles/) and [scenarios](design/scenarios/) showing examples of the design of IPFS for mobile apps in practice. Both include investigation and exploration of more extensive mobile sharing and receiving workflows of iOS and Android mobile operating systems. These guidelines provide a foundational effort towards IPFS on mobile platforms, informing both IPFS feature prioritisation as well as ecosystem and community building on the protocol.
 
-## Application Survey Findings
+## Research
+
+### Application Survey Findings
 
 After in-depth review, we came upon many approaches to core areas that current P2P apps all share, such as identity and it's management, connection notification, confirmations and how they approach onboarding and user education.
 
 [Read more](application-survey/findings.md)
 
-## User Research Findings
+### User Research Findings
 
-There is a lot of opportunity in addressing user’s desires for better methods of files sharing and the addressing their frustrations with its management and an increasing interest in privacy and security issues.
+There is a lot of opportunity in addressing user’s desires for better methods of files sharing and the addressing their frustrations with its management and an increasing interest in privacy and security issues[ - Read more](user-research/findings.md)
 
-[Read more](user-research/findings.md)
+Experts
 
-## Design Principles
+Early Adopters
+
+Potential User
+
+## Design
+
+### Design Principles
 
 These are suggestions for designers and developers when building their apps and services[. - Read more](design/principles/)
 
@@ -32,7 +40,7 @@ These are suggestions for designers and developers when building their apps and 
 
 #### [Be seamless](design/principles/be-seamless.md)
 
-## Design Scenarios
+### Design Scenarios
 
 The Scenarios are design examples to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS[. - Read more](design/scenarios/)
 
