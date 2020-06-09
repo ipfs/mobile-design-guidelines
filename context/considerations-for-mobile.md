@@ -1,6 +1,6 @@
 # Considerations for Mobile
 
-There are couple of main areas of consideration when researching IPFS: mobile browsers, mobile battery life , mobile signal and data capabilities and privacy/identity. Throughout the research we layout these considerations as well as some questions to bear in mind as we explore IPFS for mobile.
+There are couple of main areas of consideration when researching IPFS: mobile browsers, mobile battery life , mobile signal and data capabilities and privacy/identity. Throughout the research we layout these considerations as well as some questions to bear in mind as we explore IPFS for mobile. These questions served as a guide to the research, first in helping determine where to look during reviewing applications and the technology landscape. They also helped guide and frame our interviews with [Experts](../user-research/interviews/experts/), [Early Adopters](../user-research/interviews/early-adopters/) and [Potential Users](../user-research/interviews/potential-users/).
 
 ## Mobile browsers‌
 
