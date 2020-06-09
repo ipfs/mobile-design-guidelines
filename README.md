@@ -30,7 +30,7 @@ There is a lot of opportunity in addressing user’s desires for better methods 
 
 These are suggestions of what to think about for designers and developers when building their apps and services[.](design/principles/)
 
-* [Respect the devic](design/principles/respect-the-device.md)
+* [Respect the device](design/principles/respect-the-device.md)
 * [Explain, don't overwhelm](design/principles/explain-dont-overwhelm.md)
 * \*\*\*\*[Make privacy work for the user](design/principles/make-privacy-work-for-the-user.md)
 * [Give control over data](design/principles/give-control-over-data.md)
