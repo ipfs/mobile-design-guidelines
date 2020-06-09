@@ -18,11 +18,11 @@ After in-depth review, we came upon many approaches to core areas that current P
 
 There is a lot of opportunity in addressing user’s desires for better methods of files sharing and the addressing their frustrations with its management and an increasing interest in privacy and security issues.
 
-[Read more](user-research/findings.md)
-
-* [Expert](user-research/interviews/experts/)
+* [Experts](user-research/interviews/experts/)
 * [Early Adopters](user-research/interviews/early-adopters/)
 * [Potential User](user-research/interviews/potential-users/)
+
+[Read more](user-research/findings.md)
 
 ## Design
 
@@ -30,23 +30,23 @@ There is a lot of opportunity in addressing user’s desires for better methods 
 
 These are suggestions of what to think about for designers and developers when building their apps and services[.](design/principles/)
 
-[Read more](design/principles/)
-
 * [Respect the devic](design/principles/respect-the-device.md)
 * [Explain, don't overwhelm](design/principles/explain-dont-overwhelm.md)
 * \*\*\*\*[Make privacy work for the user](design/principles/make-privacy-work-for-the-user.md)
 * [Give control over data](design/principles/give-control-over-data.md)
 * [Be seamless](design/principles/be-seamless.md)
 
+[Read more](design/principles/)
+
 ### Scenarios
 
 These are design examples to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS[.](design/scenarios/)
-
-[Read more](design/scenarios/)
 
 * [The user onboards confidently with minimal technical knowledge](design/scenarios/the-user-onboards-confidently-with-minimal-technical-knowledge.md)
 * [The user shares a file through another app](design/scenarios/the-user-shares-a-file-through-another-app.md)
 * [Large file sent to user](design/scenarios/large-file-sent-to-user.md)
 * [User plays a shared media file without wifi or mobile network](design/scenarios/user-plays-a-shared-media-file-without-wifi-or-mobile-network.md)
 * [A user manages their chat identity](design/scenarios/a-user-manages-their-chat-identity.md)
+
+[Read more](design/scenarios/)
 
