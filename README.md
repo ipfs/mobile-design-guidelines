@@ -20,13 +20,29 @@ There is a lot of opportunity in addressing user’s desires for better methods 
 
 ## Design Principles
 
-Apps and services for mobile aren't reformatted desktop apps. They need to take into account a host of different issues, from battery life to signal. Likewise, mobile apps are much different in other ways and apps on IPFS can provide unique and key benefits like privacy and speed. Onboarding and educating the user though should be subtle and avoid deep technical explanations. Users also want assurance that they have some level of privacy or security so their data and files are safe as much as they need help managing files. Finally, apps built on IPFS need to be seamless not only with managing connections but how the app works with their established habits and patterns.
+These are suggestions for designers and developers when building their apps and services[. - Read more](design/principles/)
 
-[Read more](design/principles/)
+#### [Respect the device](design/principles/respect-the-device.md)
+
+#### [Explain, don't overwhelm](design/principles/explain-dont-overwhelm.md)
+
+#### [Make privacy work for the user](design/principles/make-privacy-work-for-the-user.md)
+
+#### [Give control over data](design/principles/give-control-over-data.md)
+
+#### [Be seamless](design/principles/be-seamless.md)
 
 ## Design Scenarios
 
-When a user gets started with an app or service, they only need to know IPFS works and provides a better way of handling data. Things need to be simple, so utilise users' existing methods and interactions. This goes beyond file transfer to managing file access as well. IPFS's unique abilities to not need centralised Internet access to transfer files can help offline users as well as provide safe means for helping users contact and connect with one another.
+The Scenarios are design examples to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS[. - Read more](design/scenarios/)
 
-[Read more](design/scenarios/)
+#### [The user onboards confidently with minimal technical knowledge](design/scenarios/the-user-onboards-confidently-with-minimal-technical-knowledge.md)
+
+#### [The user shares a file through another app](design/scenarios/the-user-shares-a-file-through-another-app.md)
+
+#### [Large file sent to user](design/scenarios/large-file-sent-to-user.md)
+
+#### [User plays a shared media file without wifi or mobile network](design/scenarios/user-plays-a-shared-media-file-without-wifi-or-mobile-network.md)
+
+#### [A user manages their chat identity](design/scenarios/a-user-manages-their-chat-identity.md)
 

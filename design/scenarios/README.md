@@ -1,6 +1,6 @@
 # Scenarios
 
-The Scenarios are to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS. Note, the order of the scenarios does not imply priority.
+The Scenarios are to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS.
 
 Each scenario shows an example of a how mobile apps and services using IPFS could work. Each scenario also has a prototypical user in mind. These persona-users are archetypes that are composites of users discovered in the research. The purpose of these is establishing design and feature sets focused on user needs.
 
