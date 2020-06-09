@@ -16,7 +16,7 @@ After in-depth review, we came upon many approaches to core areas that current P
 
 ### User Research Findings
 
-There is a lot of opportunity in addressing user’s desires for better methods of files sharing and the addressing their frustrations with its management and an increasing interest in privacy and security issues.
+We conducted extensive interviews with a wide range of people. We discovered there is a lot of opportunity in addressing user’s desires for better methods of files sharing and addressing frustrations with its management. There is also an increasing interest in privacy and security issues.
 
 * [Experts](user-research/interviews/experts/)
 * [Early Adopters](user-research/interviews/early-adopters/)
