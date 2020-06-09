@@ -4,7 +4,7 @@ The focus of the development of IPFS to date has been primarily on desktop and s
 
 This growth at the furthest edge of the network requires solutions at the edge. While the IPFS network continues to grow on mobile \(for instance, IPFS now has default support on Opera for Android\), more research is needed to realise the full value of the network. IPFS should be directly available and accessible to end-users on all their devices - and the design of IPFS integrations should make this clear and easy to use. To create that level of clarity, developers need clear guidelines that align with user needs while unlocking all the power of the decentralised mobile web.
 
-These guidelines comprise of two main parts, research and design. The research consists of [context setting](context/considerations-for-mobile.md), [application surveys](application-survey/application-survey/) and [user research](user-research/interviews/). The design covers [strategy](design/design-strategy.md), defining [workshop](design/design-workshop.md), design [principles](design/principles/) and [scenarios](design/scenarios/) showing examples of the design of IPFS for mobile apps in practice. Both include investigation and exploration of more extensive mobile sharing and receiving workflows of iOS and Android mobile operating systems. These guidelines provide a foundational effort towards IPFS on mobile platforms, informing both IPFS feature prioritisation as well as ecosystem and community building on the protocol.
+These guidelines comprise of two main parts, research and design. Both include investigation and exploration of more extensive mobile sharing and receiving workflows of iOS and Android mobile operating systems. These guidelines provide a foundational effort towards IPFS on mobile platforms, informing both IPFS feature prioritisation as well as ecosystem and community building on the protocol.
 
 ## Research
 
@@ -18,17 +18,17 @@ After in-depth review, we came upon many approaches to core areas that current P
 
 There is a lot of opportunity in addressing user’s desires for better methods of files sharing and the addressing their frustrations with its management and an increasing interest in privacy and security issues[ - Read more](user-research/findings.md)
 
-Experts
+#### [Experts](user-research/interviews/experts/)
 
-Early Adopters
+#### [Early Adopters](user-research/interviews/early-adopters/)
 
-Potential User
+#### [Potential User](user-research/interviews/potential-users/)
 
 ## Design
 
-### Design Principles
+### Principles
 
-These are suggestions for designers and developers when building their apps and services[. - Read more](design/principles/)
+These are suggestions of what to think about for designers and developers when building their apps and services[. - Read more](design/principles/)
 
 #### [Respect the device](design/principles/respect-the-device.md)
 
@@ -40,9 +40,9 @@ These are suggestions for designers and developers when building their apps and 
 
 #### [Be seamless](design/principles/be-seamless.md)
 
-### Design Scenarios
+### Scenarios
 
-The Scenarios are design examples to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS[. - Read more](design/scenarios/)
+These are design examples to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS[. - Read more](design/scenarios/)
 
 #### [The user onboards confidently with minimal technical knowledge](design/scenarios/the-user-onboards-confidently-with-minimal-technical-knowledge.md)
 
