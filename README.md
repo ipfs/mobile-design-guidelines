@@ -38,6 +38,10 @@ These are suggestions of what to think about for designers and developers when b
 
 [Read more](design/principles/)
 
+![Design principles cheat sheet](https://raw.githubusercontent.com/ipfs/mobile-design-guidelines/master/.gitbook/assets/cheat-sheet-preview.png)
+
+Download full size in [PDF](https://github.com/ipfs/mobile-design-guidelines/blob/master/cheat-sheet.pdf) or [PNG](https://github.com/ipfs/mobile-design-guidelines/blob/master/cheat-sheet.png)
+
 ### Scenarios
 
 These are design examples to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS[.](design/scenarios/)
@@ -49,4 +53,3 @@ These are design examples to help designers and developers with situations they 
 * [A user manages their chat identity](design/scenarios/a-user-manages-their-chat-identity.md)
 
 [Read more](design/scenarios/)
-
