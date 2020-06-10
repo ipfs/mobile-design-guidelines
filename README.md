@@ -38,6 +38,12 @@ These are suggestions of what to think about for designers and developers when b
 
 [Read more](design/principles/)
 
+We've also created a handy cheat sheet for the design principles which you can download below.
+
+![Design principles cheat sheet](https://raw.githubusercontent.com/ipfs/mobile-design-guidelines/master/.gitbook/assets/cheat-sheet-preview.png)
+
+Download full size in [PDF](https://github.com/ipfs/mobile-design-guidelines/blob/master/cheat-sheet.pdf) or [PNG](https://github.com/ipfs/mobile-design-guidelines/blob/master/cheat-sheet.png)
+
 ### Scenarios
 
 These are design examples to help designers and developers with situations they are likely to encounter when creating mobile apps and services for IPFS[.](design/scenarios/)
