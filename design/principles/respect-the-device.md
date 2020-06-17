@@ -5,7 +5,7 @@ Apps and services for mobile aren't reformatted desktop apps. They need to take 
 ## What we learned in the research
 
 * Many developers believe battery life and signal to be vital to end-users
-* How vital batter is depends on the type of user and their context
+* How vital battery is depends on the type of user and their context
 * Users viewed battery and signal strength as important but only when it could be a problem
 * Battery is less and less of an issue as they get better and external battery packs become more popular
 * Offline-first design is a growing trend that requires special sensitivity to the user knowing when they are on and off line
