@@ -4,7 +4,7 @@ What users do not need is another app or service to do things they are already d
 
 ## What we found out in research
 
-* [Users](user-research/interviews/potential-users) are often hesitant to use new apps to do the things that
+* [Users](user-research/interviews/potential-users) are often hesitant to use new apps to do the things that are already handled by other other apps
 * [Early adopters](user-research/interviews/early-adopters) are increasingly interested in not using cloud services to share files
 
 ## Design considerations
